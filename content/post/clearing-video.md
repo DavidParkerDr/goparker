@@ -3,9 +3,8 @@ title: Clearing Video
 date: 2017-11-16
 tags: ["university", "clearing", "video"]
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ESfVgIowpss?rel=0" frameborder="0" allowfullscreen></iframe>
-
+{{< youtube ESfVgIowpss >}}
+<br/>
 A while back I was asked by the digital marketing team whether I would feature in a promotional video for Computer Science and here it is! It speaks to the quality of the answers that I gave to their questions that what you see here is a subset of the whole of my ramblings.
 
 <!--more-->
