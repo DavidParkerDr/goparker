@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on goParker.com</title>
+    <link>/tags/test/</link>
+    <description>Recent content in Test on goParker.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 15 Nov 2014 20:22:05 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code snippet test</title>
+      <link>/post/2014-11-15-code-snippet-test/</link>
+      <pubDate>Sat, 15 Nov 2014 20:22:05 +0000</pubDate>
+      
+      <guid>/post/2014-11-15-code-snippet-test/</guid>
+      <description>If you want to get the first fault tree in my ExampleFaultTrees object, then the following code is for you:
+var exampleFaultTrees = new ExampleFaultTrees(); topNode = exampleFaultTrees.getFaultTree(0);  You first need to instantiate an ExampleFaultTrees object and then you can ask it for the zeroth element in its internal array of fault trees.
+You can then simply call the topNode&amp;#8217;s draw function, giving it the 2d context of the canvas as a parameter to draw to.</description>
+    </item>
+    
+  </channel>
+</rss>
