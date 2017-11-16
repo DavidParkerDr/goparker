@@ -1,7 +1,6 @@
 ---
 title: Clearing Video
-date: 2017-11-16T12:59:00Z
-draft: true
+date: 2017-11-16
 tags: ["university", "clearing", "video"]
 ---
 
