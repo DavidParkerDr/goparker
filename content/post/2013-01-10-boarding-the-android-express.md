@@ -1,15 +1,8 @@
 ---
 title: Boarding the Android Express
-author: DavidParker
-type: post
+author: David Parker
 date: 2013-01-10T17:17:00+00:00
-url: /2013/01/10/boarding-the-android-express/
-
-categories:
-  - Android
-  - Samsung Galaxy Note II
-  - Windows Phone
-
+tags: ["Android", "Samsung Galaxy Note II", "Windows Phone"]
 ---
 Today I took possession of my shiny new Samsung Galaxy Note II.
 

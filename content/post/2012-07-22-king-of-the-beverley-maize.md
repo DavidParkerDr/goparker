@@ -1,21 +1,8 @@
 ---
 title: King of the Beverley Maize
-author: DavidParker
-type: post
+author: David Parker
 date: 2012-07-22T18:50:00+00:00
-url: /2012/07/22/king-of-the-beverley-maize/
-blogger_blog:
-  - www.goparker.com
-  - www.goparker.com
-blogger_author:
-  - David Parker
-  - David Parker
-blogger_8102896dbba509af3d6c437955c5e319_permalink:
-  - 6660140422601837895
-  - 6660140422601837895
-categories:
-  - Uncategorized
-
+tags: ["days out"]
 ---
 Today I spent the day a the <a href="http://www.beverleymaze.com/" target="_blank">Beverley Maze</a> with The Wife, The Boy, and some friends. If you haven’t encountered such a thing before, it is a large maze that has been cut in to a field of growing corn (or maize to identify the pun). In order to add to the challenge and fun of the exploration there are, dotted about the maze, some boards with quiz questions. By collecting the correct answers you can decode the final board at the exit of the maze and enter your self in to their competition.
 

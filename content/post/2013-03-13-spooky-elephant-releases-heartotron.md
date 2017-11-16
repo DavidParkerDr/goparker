@@ -1,28 +1,8 @@
 ---
 title: Spooky Elephant releases Heartotron!
-author: DavidParker
-type: post
+author: David Parker
 date: 2013-03-13T11:41:00+00:00
-url: /2013/03/13/spooky-elephant-releases-heartotron/
-blogger_blog:
-  - www.goparker.com
-  - www.goparker.com
-blogger_author:
-  - David Parker
-  - David Parker
-blogger_8102896dbba509af3d6c437955c5e319_permalink:
-  - 7558448645584941410
-  - 7558448645584941410
-geo_public:
-  - 0
-  - 0
-categories:
-  - Heartotron
-  - Monogame
-  - Spooky Elephant
-  - Windows 8
-  - Windows Store
-
+tags: ["Spooky Elephant", "Heartotron", "Monogame"]
 ---
 Just a quick note for now to announce the publishing of our game – Heartotron &#8211; to the Windows Store. You can preview and install it (for free!) on your Windows 8 device from the following store link:
 

@@ -1,21 +1,8 @@
 ---
 title: My DIY eGPU project – Benchmarking
-author: DavidParker
-type: post
+author: David Parker
 date: 2012-07-26T22:44:00+00:00
-url: /2012/07/26/my-diy-egpu-project-benchmarking/
-blogger_blog:
-  - www.goparker.com
-  - www.goparker.com
-blogger_author:
-  - David Parker
-  - David Parker
-blogger_8102896dbba509af3d6c437955c5e319_permalink:
-  - 1518306459287218211
-  - 1518306459287218211
-categories:
-  - eGPU
-
+tags: ["eGPU"]
 ---
 Well, I have done a spot of benchmarking. Specifically using 3DMark06 and the Resident Evil 5 benchmarking tool. If you are wondering what I am talking about here is an <a href="http://www.goparker.com/2012/07/my-diy-egpu-project-introduction.html" target="_blank">introduction</a> and a <a href="http://www.goparker.com/2012/07/my-diy-egpu-project-delivery-and-test.html" target="_blank">follow-up</a>.
   

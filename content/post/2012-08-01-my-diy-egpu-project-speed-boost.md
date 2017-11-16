@@ -1,21 +1,8 @@
 ---
 title: My DIY eGPU Project – Speed boost
-author: DavidParker
-type: post
+author: David Parker
 date: 2012-08-01T09:55:00+00:00
-url: /2012/08/01/my-diy-egpu-project-speed-boost/
-blogger_blog:
-  - www.goparker.com
-  - www.goparker.com
-blogger_author:
-  - David Parker
-  - David Parker
-blogger_8102896dbba509af3d6c437955c5e319_permalink:
-  - 9004697760631991450
-  - 9004697760631991450
-categories:
-  - Uncategorized
-
+tags: ["eGPU"]
 ---
 This morning, some lovely person using the handle Burger commented on one of my <a href="http://www.goparker.com/2012/07/my-diy-egpu-project-benchmarking.html?showComment=1343809982848#c9044794735657189722" target="_blank">earlier posts</a> suggesting that if I connect the eGPU setup after boot-up is complete then I should get a significant boost due to PCIe compression. I little bit of Googling reveals a bit more detail <a href="http://forum.notebookreview.com/e-gpu-external-graphics-discussion/418851-diy-egpu-experiences-123.html#post6542661" target="_blank">here</a>, but it seems that you need to have a ‘modern’ Intel integrated GPU in combination with one of a fairly narrow range of Nvidia kit.
 

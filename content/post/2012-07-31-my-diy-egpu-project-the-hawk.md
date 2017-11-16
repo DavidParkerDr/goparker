@@ -1,21 +1,8 @@
 ---
 title: My DIY eGPU Project – The Hawk
-author: DavidParker
-type: post
+author: David Parker
 date: 2012-07-31T22:20:00+00:00
-url: /2012/07/31/my-diy-egpu-project-the-hawk/
-blogger_blog:
-  - www.goparker.com
-  - www.goparker.com
-blogger_author:
-  - David Parker
-  - David Parker
-blogger_8102896dbba509af3d6c437955c5e319_permalink:
-  - 864299966983251143
-  - 864299966983251143
-categories:
-  - eGPU
-
+tags: ["eGPU"]
 ---
 Today my new graphics card arrived from eBay. It is a second hand <a href="http://uk.msi.com/product/vga/N460GTX-Hawk.html" target="_blank">MSI N460GTX Hawk</a> which I picked up for a reasonable £79.02 including postage. This puts the running total for the eGPU project (not including bits that I had lying around) at £166.10.
 

@@ -1,24 +1,8 @@
 ---
 title: Memory of a Goldfish
-author: DavidParker
-type: post
+author: David Parker
 date: 2012-07-20T23:19:00+00:00
-url: /2012/07/20/memory-of-a-goldfish/
-blogger_blog:
-  - www.goparker.com
-  - www.goparker.com
-blogger_author:
-  - David Parker
-  - David Parker
-blogger_8102896dbba509af3d6c437955c5e319_permalink:
-  - 2942349189759753558
-  - 2942349189759753558
-categories:
-  - App
-  - Game
-  - Silverlight
-  - Windows Phone
-
+tags: ["Windows Phone 7", "goldfish", "game"]
 ---
 This game was my first foray into Windows Phone 7 development. It is a Silverlight app based on the card game of Memory (as I knew it, though it is also known by many other names according to <a href="http://en.wikipedia.org/wiki/Concentration_(game)" target="_blank">Wikipedia</a>). The idea is that you turn over the &#8216;cards&#8217; in pairs; if they match then you get to keep them. If they don&#8217;t match then they are flipped back over and you get another try. You can see the play screen in the image below.
 

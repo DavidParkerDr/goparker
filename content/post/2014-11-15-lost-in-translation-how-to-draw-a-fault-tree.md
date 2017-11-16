@@ -1,16 +1,7 @@
 ---
-title: 'Lost in translation: How to draw a fault tree'
-author: DavidParker
-type: post
+title: Lost in translation: How to draw a fault tree
 date: 2014-11-15T20:10:26+00:00
-url: /2014/11/15/lost-in-translation-how-to-draw-a-fault-tree/
-geo_public:
-  - 0
-  - 0
-categories:
-  - Uncategorized
-format: video
-
+tags: ["2d Graphics", "fault tree", "video"]
 ---
 {{< youtube ODgXoqBXqrE >}}
 <br/>

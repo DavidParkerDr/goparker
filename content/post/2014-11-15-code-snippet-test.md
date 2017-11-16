@@ -1,15 +1,8 @@
 ---
 title: Code snippet test
-author: DavidParker
-type: post
+author: David Parker
 date: 2014-11-15T20:22:05+00:00
-url: /2014/11/15/code-snippet-test/
-geo_public:
-  - 0
-  - 0
-categories:
-  - Uncategorized
-
+tags: ["test", "code"]
 ---
 If you want to get the first fault tree in my ExampleFaultTrees object, then the following code is for you:
 

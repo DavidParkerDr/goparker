@@ -1,21 +1,8 @@
 ---
 title: My DIY eGPU Project – Introduction
-author: DavidParker
-type: post
+author: David Parker
 date: 2012-07-20T12:42:00+00:00
-url: /2012/07/20/my-diy-egpu-project-introduction/
-blogger_blog:
-  - www.goparker.com
-  - www.goparker.com
-blogger_author:
-  - David Parker
-  - David Parker
-blogger_8102896dbba509af3d6c437955c5e319_permalink:
-  - 4302172259353157682
-  - 4302172259353157682
-categories:
-  - eGPU
-
+tags: ["eGPU"]
 ---
 The PC that I use for work (and play) is a Toshiba Portégé R700-160 laptop. It is a delightfully sleek and portable device that packs a pretty decent  Intel Core i5-520M Processor into its tiny chassis. A (perhaps unavoidable) weakness of the machine is its graphics capability as it relies on the integrated Intel Graphics Media Accelerator HD GPU. <span style="background-color:white;">It can just about manage Civilization V but anything more graphically intensive is a shuddering no-no. </span>
 

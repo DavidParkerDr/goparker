@@ -1,23 +1,8 @@
 ---
 title: (R)evolving Art
-author: DavidParker
-type: post
+author: David Parker
 date: 2012-07-25T13:14:00+00:00
-url: /2012/07/25/revolving-art/
-blogger_blog:
-  - www.goparker.com
-  - www.goparker.com
-blogger_author:
-  - David Parker
-  - David Parker
-blogger_8102896dbba509af3d6c437955c5e319_permalink:
-  - 6812724900444507772
-  - 6812724900444507772
-categories:
-  - Art
-  - Genetic Algorithm
-  - Silverlight
-
+tags: ["art", "Genetic Algorithm", "Silverlight"]
 ---
 Though I like to think that my software development work shows a little artistry, I am certainly not an artist in the classical sense of the word. However, I have been developing an art project with artist Roberto Bono (<a href="http://www.arteutile.net/rob/artist.htm" target="_blank">Roberto&#8217;s website</a>) for the past year or so, and as I have just uploaded a couple of new Roberto works I thought I would share them.
 

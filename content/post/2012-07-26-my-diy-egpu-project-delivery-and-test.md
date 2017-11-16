@@ -1,21 +1,8 @@
 ---
 title: My DIY eGPU Project – Delivery and Test
-author: DavidParker
-type: post
+author: David Parker
 date: 2012-07-26T16:32:00+00:00
-url: /2012/07/26/my-diy-egpu-project-delivery-and-test/
-blogger_blog:
-  - www.goparker.com
-  - www.goparker.com
-blogger_author:
-  - David Parker
-  - David Parker
-blogger_8102896dbba509af3d6c437955c5e319_permalink:
-  - 7638756433174692238
-  - 7638756433174692238
-categories:
-  - eGPU
-
+tags: ["eGPU"]
 ---
 Today (26th) the adapter parts for my eGPU project arrived from Taiwan. I paid for it on the 20th via PayPal and on the 24th the PayPal status was updated to let me know that my purchase had shipped with a DHL tracking number. I am pretty happy with the delivery time.
   
