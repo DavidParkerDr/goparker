@@ -1,6 +1,6 @@
 ---
-title: Lost in translation: How to draw a fault tree
-date: 2014-11-15T20:10:26+00:00
+title: "Lost in translation: How to draw a fault tree"
+date: 2014-11-15
 tags: ["2d Graphics", "fault tree", "video"]
 ---
 {{< youtube ODgXoqBXqrE >}}
