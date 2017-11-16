@@ -1,7 +1,7 @@
-baseurl = "https://threethinggame.github.io"
+baseurl = "goparker.com"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Three Thing Game"
+title = "goParker.com"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
@@ -10,7 +10,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "...is an excellent game jam"
+  subtitle = "We've gone Parker, have you?"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -20,11 +20,10 @@ pygmentCodeFences = true
 
 
 [Author]
-  name = "#threethinggame"
-  website = "threethinggame.com"
-  facebook = "threethinggame"
-  twitter = "threethinggame"
-  youtube = "channel/UCbjS1BMnUZQKvlxMhw9NXFA"
+  name = "David Parker"
+  website = "goparker.com"
+  twitter = "davidparkerdr"
+  youtube = "user/DavidParkerDr"
   
 
 [[menu.main]]

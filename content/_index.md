@@ -1,5 +1,3 @@
-This is the main website for the magnificent, marvelous, mad, mad, mad, mad, Three Thing Game.
+I am David Parker, Lecturer in Computer Science at the University of Hull.
 
 Find out more here: [About](page/about)
-
-#threethinggame
