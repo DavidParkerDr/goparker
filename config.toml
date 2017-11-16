@@ -1,4 +1,4 @@
-baseurl = "goparker.com"
+baseurl = "/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "goParker.com"
