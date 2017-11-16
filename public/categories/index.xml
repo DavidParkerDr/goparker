@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on goParker.com</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on goParker.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 10 Jan 2013 17:17:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android</title>
+      <link>/categories/android/</link>
+      <pubDate>Thu, 10 Jan 2013 17:17:00 +0000</pubDate>
+      
+      <guid>/categories/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App</title>
+      <link>/categories/app/</link>
+      <pubDate>Fri, 20 Jul 2012 23:19:00 +0000</pubDate>
+      
+      <guid>/categories/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>/categories/art/</link>
+      <pubDate>Wed, 25 Jul 2012 13:14:00 +0000</pubDate>
+      
+      <guid>/categories/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egpu</title>
+      <link>/categories/egpu/</link>
+      <pubDate>Tue, 31 Jul 2012 22:20:00 +0000</pubDate>
+      
+      <guid>/categories/egpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>/categories/game/</link>
+      <pubDate>Fri, 20 Jul 2012 23:19:00 +0000</pubDate>
+      
+      <guid>/categories/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Algorithm</title>
+      <link>/categories/genetic-algorithm/</link>
+      <pubDate>Wed, 25 Jul 2012 13:14:00 +0000</pubDate>
+      
+      <guid>/categories/genetic-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heartotron</title>
+      <link>/categories/heartotron/</link>
+      <pubDate>Wed, 13 Mar 2013 11:41:00 +0000</pubDate>
+      
+      <guid>/categories/heartotron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juicer</title>
+      <link>/categories/juicer/</link>
+      <pubDate>Sat, 28 Apr 2012 16:48:00 +0000</pubDate>
+      
+      <guid>/categories/juicer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monogame</title>
+      <link>/categories/monogame/</link>
+      <pubDate>Wed, 13 Mar 2013 11:41:00 +0000</pubDate>
+      
+      <guid>/categories/monogame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poetry</title>
+      <link>/categories/poetry/</link>
+      <pubDate>Sun, 13 Dec 2015 20:23:33 +0000</pubDate>
+      
+      <guid>/categories/poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samsung Galaxy Note Ii</title>
+      <link>/categories/samsung-galaxy-note-ii/</link>
+      <pubDate>Thu, 10 Jan 2013 17:17:00 +0000</pubDate>
+      
+      <guid>/categories/samsung-galaxy-note-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silverlight</title>
+      <link>/categories/silverlight/</link>
+      <pubDate>Wed, 25 Jul 2012 13:14:00 +0000</pubDate>
+      
+      <guid>/categories/silverlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spooky Elephant</title>
+      <link>/categories/spooky-elephant/</link>
+      <pubDate>Wed, 13 Mar 2013 11:41:00 +0000</pubDate>
+      
+      <guid>/categories/spooky-elephant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncategorized</title>
+      <link>/categories/uncategorized/</link>
+      <pubDate>Sat, 15 Nov 2014 20:22:05 +0000</pubDate>
+      
+      <guid>/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows 8</title>
+      <link>/categories/windows-8/</link>
+      <pubDate>Wed, 13 Mar 2013 11:41:00 +0000</pubDate>
+      
+      <guid>/categories/windows-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows Phone</title>
+      <link>/categories/windows-phone/</link>
+      <pubDate>Thu, 10 Jan 2013 17:17:00 +0000</pubDate>
+      
+      <guid>/categories/windows-phone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows Store</title>
+      <link>/categories/windows-store/</link>
+      <pubDate>Wed, 13 Mar 2013 11:41:00 +0000</pubDate>
+      
+      <guid>/categories/windows-store/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>goParker.com</title>
+    <link>/</link>
+    <description>Recent content on goParker.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 16 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clearing Video</title>
+      <link>/post/clearing-video/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/clearing-video/</guid>
+      <description>&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/ESfVgIowpss&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;br/&gt;
+A while back I was asked by the digital marketing team whether I would feature in a promotional video for Computer Science and here it is! It speaks to the quality of the answers that I gave to their questions that what you see here is a subset of the whole of my ramblings.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Last Three Thing Game</title>
+      <link>/post/2017-10-08-last-three-thing-game/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-10-08-last-three-thing-game/</guid>
+      <description>&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/BXMhfqmfQGw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;br/&gt;
+Another in the line music covers to entice the masses to Three Thing Game. This is for the 3rd and 4th November 2017  event.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Three Thingian Gamesody</title>
+      <link>/post/2017-04-21-three-thingian-gamesody/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-04-21-three-thingian-gamesody/</guid>
+      <description>&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/2p2TL5aNhlI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;br/&gt;
+The first (of many?) music covers to entice the masses to Three Thing Game. This is for the 12th and 13th May 2017  event.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Frog poem</title>
+      <link>/2015/12/13/frog-poem/</link>
+      <pubDate>Sun, 13 Dec 2015 20:23:33 +0000</pubDate>
+      
+      <guid>/2015/12/13/frog-poem/</guid>
+      <description>Under a rock and hidden deep,
+There lies a frog, he’s half asleep.
+He dreams no dreams of kingdoms far,
+But of being trapped inside a jar.
+&amp;nbsp;
+He tossed and turned throughout the night,
+Not cold, he shivered from his fright.
+The jar was sealed, the air was thin,
+Not much air was there within.
+&amp;nbsp;
+So he gasped and strived for a breath,
+And bravely waited for his death.</description>
+    </item>
+    
+    <item>
+      <title>Code snippet test</title>
+      <link>/2014/11/15/code-snippet-test/</link>
+      <pubDate>Sat, 15 Nov 2014 20:22:05 +0000</pubDate>
+      
+      <guid>/2014/11/15/code-snippet-test/</guid>
+      <description>If you want to get the first fault tree in my ExampleFaultTrees object, then the following code is for you:
+var exampleFaultTrees = new ExampleFaultTrees(); topNode = exampleFaultTrees.getFaultTree(0);  You first need to instantiate an ExampleFaultTrees object and then you can ask it for the zeroth element in its internal array of fault trees.
+You can then simply call the topNode&amp;#8217;s draw function, giving it the 2d context of the canvas as a parameter to draw to.</description>
+    </item>
+    
+    <item>
+      <title>Lost in translation: How to draw a fault tree</title>
+      <link>/2014/11/15/lost-in-translation-how-to-draw-a-fault-tree/</link>
+      <pubDate>Sat, 15 Nov 2014 20:10:26 +0000</pubDate>
+      
+      <guid>/2014/11/15/lost-in-translation-how-to-draw-a-fault-tree/</guid>
+      <description>The other day I gave a workshop for the 08240 2d Computer Graphics students in the Computer Science department of the University of Hull. A number of the students were struggling with this aspect of the coursework that they were undertaking.
+Above is a rough video I put together of the content. I made it using a chemistry beaker holder to hold my webcam pointing down at the surface of my desk.</description>
+    </item>
+    
+    <item>
+      <title>Test post</title>
+      <link>/2014/11/15/test-post/</link>
+      <pubDate>Sat, 15 Nov 2014 17:05:28 +0000</pubDate>
+      
+      <guid>/2014/11/15/test-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce rhoncus viverra erat placerat ornare. Phasellus ut sapien venenatis erat pellentesque gravida at non nibh. Cras viverra, magna nec fringilla molestie, nunc metus tempus nunc, in accumsan nulla ipsum eget nisi. Donec nec enim erat. Quisque at diam ut nisi sodales lacinia. Phasellus suscipit luctus sapien vel dignissim. Nunc in finibus eros. Pellentesque efficitur sit amet nunc eu vulputate. Ut convallis eget augue quis gravida.</description>
+    </item>
+    
+    <item>
+      <title>Spooky Elephant releases Heartotron!</title>
+      <link>/2013/03/13/spooky-elephant-releases-heartotron/</link>
+      <pubDate>Wed, 13 Mar 2013 11:41:00 +0000</pubDate>
+      
+      <guid>/2013/03/13/spooky-elephant-releases-heartotron/</guid>
+      <description>Just a quick note for now to announce the publishing of our game – Heartotron &amp;#8211; to the Windows Store. You can preview and install it (for free!) on your Windows 8 device from the following store link:
+http://apps.microsoft.com/windows/app/heartotron/569d7e21-6eca-479c-8dfd-03371b5f739e
+Please give it a go and leave us some feedback or ideas for improvements. We have a planned update for later in the week to add new enemy types so watch this space.</description>
+    </item>
+    
+    <item>
+      <title>Boarding the Android Express</title>
+      <link>/2013/01/10/boarding-the-android-express/</link>
+      <pubDate>Thu, 10 Jan 2013 17:17:00 +0000</pubDate>
+      
+      <guid>/2013/01/10/boarding-the-android-express/</guid>
+      <description>Today I took possession of my shiny new Samsung Galaxy Note II.
+My previous daily device was the Samsung Omnia 7 which was one of the debut devices of the Windows Phone 7 range. It was a close run race between the Note II and the flagship Windows Phone 8 device the Nokia Lumia 920.
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &#34;Logo Title Text 1&#34;)  ![Example image](/images/phones-8x6.jpg) As you can see from the picture it is quite a step up in size, going from a 4” screen to a 5.</description>
+    </item>
+    
+    <item>
+      <title>My DIY eGPU Project – Speed boost</title>
+      <link>/2012/08/01/my-diy-egpu-project-speed-boost/</link>
+      <pubDate>Wed, 01 Aug 2012 09:55:00 +0000</pubDate>
+      
+      <guid>/2012/08/01/my-diy-egpu-project-speed-boost/</guid>
+      <description>This morning, some lovely person using the handle Burger commented on one of my earlier posts suggesting that if I connect the eGPU setup after boot-up is complete then I should get a significant boost due to PCIe compression. I little bit of Googling reveals a bit more detail here, but it seems that you need to have a ‘modern’ Intel integrated GPU in combination with one of a fairly narrow range of Nvidia kit.</description>
+    </item>
+    
+    <item>
+      <title>My DIY eGPU Project – The Hawk</title>
+      <link>/2012/07/31/my-diy-egpu-project-the-hawk/</link>
+      <pubDate>Tue, 31 Jul 2012 22:20:00 +0000</pubDate>
+      
+      <guid>/2012/07/31/my-diy-egpu-project-the-hawk/</guid>
+      <description>Today my new graphics card arrived from eBay. It is a second hand MSI N460GTX Hawk which I picked up for a reasonable £79.02 including postage. This puts the running total for the eGPU project (not including bits that I had lying around) at £166.10.
+  So how does it perform? Well you may remember that I previously benchmarked both the integrated graphics of my laptop and a borrowed Geforce 9600GT in the eGPU adapter with the eGPU providing a splendid 3 times increase in the 3DMark06 score.</description>
+    </item>
+    
+    <item>
+      <title>My DIY eGPU project – Benchmarking</title>
+      <link>/2012/07/26/my-diy-egpu-project-benchmarking/</link>
+      <pubDate>Thu, 26 Jul 2012 22:44:00 +0000</pubDate>
+      
+      <guid>/2012/07/26/my-diy-egpu-project-benchmarking/</guid>
+      <description>Well, I have done a spot of benchmarking. Specifically using 3DMark06 and the Resident Evil 5 benchmarking tool. If you are wondering what I am talking about here is an introduction and a follow-up.
+I guess a brief recap wouldn’t be out of place. I have a laptop with integrated graphics. This severely limits the games that I can play. This makes me sad. I have read that I can put together an adapter that plugs in to the ExpressCard slot in my laptop that allows me to use a desktop GPU to power the graphics.</description>
+    </item>
+    
+    <item>
+      <title>My DIY eGPU Project – Delivery and Test</title>
+      <link>/2012/07/26/my-diy-egpu-project-delivery-and-test/</link>
+      <pubDate>Thu, 26 Jul 2012 16:32:00 +0000</pubDate>
+      
+      <guid>/2012/07/26/my-diy-egpu-project-delivery-and-test/</guid>
+      <description>Today (26th) the adapter parts for my eGPU project arrived from Taiwan. I paid for it on the 20th via PayPal and on the 24th the PayPal status was updated to let me know that my purchase had shipped with a DHL tracking number. I am pretty happy with the delivery time.
+Something that I knew was a possibility, though was still slightly vexing, was an accompanying VAT charge from Customs amounting to £12.</description>
+    </item>
+    
+    <item>
+      <title>(R)evolving Art</title>
+      <link>/2012/07/25/revolving-art/</link>
+      <pubDate>Wed, 25 Jul 2012 13:14:00 +0000</pubDate>
+      
+      <guid>/2012/07/25/revolving-art/</guid>
+      <description>Though I like to think that my software development work shows a little artistry, I am certainly not an artist in the classical sense of the word. However, I have been developing an art project with artist Roberto Bono (Roberto&amp;#8217;s website) for the past year or so, and as I have just uploaded a couple of new Roberto works I thought I would share them.
+The ‘idea’ of the work is that is is comprised of 12 double sided paintings that form the whole.</description>
+    </item>
+    
+    <item>
+      <title>King of the Beverley Maize</title>
+      <link>/2012/07/22/king-of-the-beverley-maize/</link>
+      <pubDate>Sun, 22 Jul 2012 18:50:00 +0000</pubDate>
+      
+      <guid>/2012/07/22/king-of-the-beverley-maize/</guid>
+      <description>Today I spent the day a the Beverley Maze with The Wife, The Boy, and some friends. If you haven’t encountered such a thing before, it is a large maze that has been cut in to a field of growing corn (or maize to identify the pun). In order to add to the challenge and fun of the exploration there are, dotted about the maze, some boards with quiz questions. By collecting the correct answers you can decode the final board at the exit of the maze and enter your self in to their competition.</description>
+    </item>
+    
+    <item>
+      <title>Memory of a Goldfish</title>
+      <link>/2012/07/20/memory-of-a-goldfish/</link>
+      <pubDate>Fri, 20 Jul 2012 23:19:00 +0000</pubDate>
+      
+      <guid>/2012/07/20/memory-of-a-goldfish/</guid>
+      <description>This game was my first foray into Windows Phone 7 development. It is a Silverlight app based on the card game of Memory (as I knew it, though it is also known by many other names according to Wikipedia). The idea is that you turn over the &amp;#8216;cards&amp;#8217; in pairs; if they match then you get to keep them. If they don&amp;#8217;t match then they are flipped back over and you get another try.</description>
+    </item>
+    
+    <item>
+      <title>My DIY eGPU Project – Introduction</title>
+      <link>/2012/07/20/my-diy-egpu-project-introduction/</link>
+      <pubDate>Fri, 20 Jul 2012 12:42:00 +0000</pubDate>
+      
+      <guid>/2012/07/20/my-diy-egpu-project-introduction/</guid>
+      <description>The PC that I use for work (and play) is a Toshiba Portégé R700-160 laptop. It is a delightfully sleek and portable device that packs a pretty decent Intel Core i5-520M Processor into its tiny chassis. A (perhaps unavoidable) weakness of the machine is its graphics capability as it relies on the integrated Intel Graphics Media Accelerator HD GPU. It can just about manage Civilization V but anything more graphically intensive is a shuddering no-no.</description>
+    </item>
+    
+    <item>
+      <title>The arrival of the juicer</title>
+      <link>/2012/04/28/the-arrival-of-the-juicer/</link>
+      <pubDate>Sat, 28 Apr 2012 16:48:00 +0000</pubDate>
+      
+      <guid>/2012/04/28/the-arrival-of-the-juicer/</guid>
+      <description>Today our shiny juicer arrived from eBay. So far we have tried apple and carrot, which was surprisingly nice, and banana and strawberry smoothie.</description>
+    </item>
+    
+    <item>
+      <title>All about me</title>
+      <link>/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/page/about/</guid>
+      <description>I have been in Computer Science at the University of Hull since 1999, first as an undergraduate, then through various flavours of postgraduate research, leading to now as a lecturer. I have held my lecturer post since 2011.</description>
+    </item>
+    
+  </channel>
+</rss>
