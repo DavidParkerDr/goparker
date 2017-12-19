@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2d Graphics on goParker.com</title>
-    <link>/tags/2d-graphics/</link>
+    <link>http://goparker.com/tags/2d-graphics/</link>
     <description>Recent content in 2d Graphics on goParker.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 15 Nov 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/2d-graphics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://goparker.com/tags/2d-graphics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lost in translation: How to draw a fault tree</title>
-      <link>/post/2014-11-15-lost-in-translation-how-to-draw-a-fault-tree/</link>
+      <link>http://goparker.com/post/2014-11-15-lost-in-translation-how-to-draw-a-fault-tree/</link>
       <pubDate>Sat, 15 Nov 2014 00:00:00 +0000</pubDate>
       
-      <guid>/post/2014-11-15-lost-in-translation-how-to-draw-a-fault-tree/</guid>
+      <guid>http://goparker.com/post/2014-11-15-lost-in-translation-how-to-draw-a-fault-tree/</guid>
       <description>The other day I gave a workshop for the 08240 2d Computer Graphics students in the Computer Science department of the University of Hull. A number of the students were struggling with this aspect of the coursework that they were undertaking.
 Above is a rough video I put together of the content. I made it using a chemistry beaker holder to hold my webcam pointing down at the surface of my desk.</description>
     </item>
