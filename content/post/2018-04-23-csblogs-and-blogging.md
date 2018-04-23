@@ -5,7 +5,7 @@ tags: ["blog", "employability", "university"]
 ---
 ![alt text](/img/post_images/180423_jenny.jpg "Who's a pretty tabby tiger?")
 
-This is a post to espouse the virtues of blogging with respect to getting your first job (and possibly ones to follow). I also want to reintroduce CSBlogs  http://csblogs.com/ to the Hull Computer Science students. More on both below. The picture is unrelated but begs the question, Who's a pretty tabby tiger?
+This is a post to proselytise the virtues of blogging with respect to getting your first job (and possibly ones to follow). I also want to reintroduce CSBlogs  http://csblogs.com/ to the Hull Computer Science students. More on both below. The picture is unrelated but begs the question, Who's a pretty tabby tiger?
 
 <!--more-->
 
