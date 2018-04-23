@@ -23,7 +23,7 @@ The platform is not important either. It could be self-hosted and administered. 
 
 When you do create your Blog (as obviously you will all rush out and make one) or if you have been doing it for a while, you may be interested in http://csblogs.com/. This is a blog aggregation site that was created and is maintained by some of our alumni. The idea is that like-minded groups can have a one stop Computer Science blog fest. This can be great for encouraging each other and honing your craft.
 
-You need to have a RSS blog feed in order to sign up and once you do, you application needs to be approved which I can do, but the system doesn't notify me so it is best if you email me so that I can do it.
+You need to have a RSS blog feed in order to sign up and once you do, your application needs to be approved which I can do, but the system doesn't notify me so it is best if you email me so that I can do it.
 
 I am looking forward to seeing you all there.
 
