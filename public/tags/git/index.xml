@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on goParker.com</title>
+    <link>http://goparker.com/tags/git/</link>
+    <description>Recent content in Git on goParker.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 25 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://goparker.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adding files to source control</title>
+      <link>http://goparker.com/post/2018-04-25-adding-files-to-source-control/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://goparker.com/post/2018-04-25-adding-files-to-source-control/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://goparker.com/img/post_images/180425_jenny.jpg&#34; alt=&#34;alt text&#34; title=&#34;It&#39;s looking cold out there&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Today I have been frustrated by a perennial problem of mine which is forgetting to add a crucial file to source control. Consequently, a program that I had wanted to show off today won&amp;rsquo;t build.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
