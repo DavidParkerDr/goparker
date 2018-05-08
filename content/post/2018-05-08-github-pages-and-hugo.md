@@ -3,9 +3,11 @@ title: Using Github Pages with Hugo
 date: 2018-05-08
 tags: ["blog", "github", "hugo"]
 ---
-![alt text](/img/post_images/180508_jenny.jpg "Who's a pretty tabby tiger?")
+![alt text](/img/post_images/180508_jenny.png "Sun beam clean")
 
-I have been playing around with using the static site generation tool Hugo (https://gohugo.io/) with GitHub Pages (https://pages.github.com/) as a means of hosting various websites at no cost. 
+In a recent post about blogging and CSBlogs (http://goparker.com/post/2018-04-23-csblogs-and-blogging/) I mentioned that I have been playing around with using the static site generation tool Hugo (https://gohugo.io/) with GitHub Pages (https://pages.github.com/) as a means of hosting various websites at no cost.
+
+Here I explain how it is done. 
 
 <!--more-->
 
