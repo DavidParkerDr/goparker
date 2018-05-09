@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>My DIY eGPU project – Benchmarking</title>
+  <meta property="og:title" content="My DIY eGPU project – Benchmarking" />
+  <meta name="twitter:title" content="My DIY eGPU project – Benchmarking" />
+  <meta name="description" content="Well, I have done a spot of benchmarking. Specifically using 3DMark06 and the Resident Evil 5 benchmarking tool. If you are wondering what I am talking about here is an introduction and a follow-up.
+I guess a brief recap wouldn’t be out of place. I have a laptop with integrated graphics. This severely limits the games that I can play. This makes me sad. I have read that I can put together an adapter that plugs in to the ExpressCard slot in my laptop that allows me to use a desktop GPU to power the graphics.">
+  <meta property="og:description" content="Well, I have done a spot of benchmarking. Specifically using 3DMark06 and the Resident Evil 5 benchmarking tool. If you are wondering what I am talking about here is an introduction and a follow-up.
+I guess a brief recap wouldn’t be out of place. I have a laptop with integrated graphics. This severely limits the games that I can play. This makes me sad. I have read that I can put together an adapter that plugs in to the ExpressCard slot in my laptop that allows me to use a desktop GPU to power the graphics.">
+  <meta name="twitter:description" content="Well, I have done a spot of benchmarking. Specifically using 3DMark06 and the Resident Evil 5 benchmarking tool. If you are wondering what I am talking about here is an introduction and a follow-up.
+I …">
+  <meta name="author" content="David Parker"/>
+  <link href='http://goparker.com/img/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta property="og:image" content="http://goparker.com/img/avatar-icon.png" />
+  <meta name="twitter:image" content="http://goparker.com/img/avatar-icon.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@davidparkerdr" />
+  <meta name="twitter:creator" content="@davidparkerdr" />
+  <meta property="og:url" content="http://goparker.com/post/2012-07-26-my-diy-egpu-project-benchmarking/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="goParker" />
+
+  <meta name="generator" content="Hugo 0.40.2" />
+  <link rel="canonical" href="http://goparker.com/post/2012-07-26-my-diy-egpu-project-benchmarking/" />
+  <link rel="alternate" href="" type="application/rss+xml" title="goParker">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="http://goparker.com/css/main.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="http://goparker.com/css/highlighting.css" />
+  <link rel="stylesheet" href="http://goparker.com/css/pygment_highlights.css" />
+  <link rel="stylesheet" href="http://goparker.com/css/highlight.min.css" />
+<link rel="stylesheet" href="http://goparker.com/css/dan_staticman.css" />
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+</head>
+
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://goparker.com/">goParker</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li>
+              <a title="About" href="../../page/about">About</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Blog" href="../../post">Blog</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Tags" href="../../tags">Tags</a>
+            </li>
+          
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        
+          <a title="goParker" href="http://goparker.com/">
+            <img class="avatar-img" src="http://goparker.com/img/avatar-icon.png" alt="goParker" />
+          </a>
+        
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+
+
+
+    
+  
+  
+  
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="post-heading">
+              <h1>My DIY eGPU project – Benchmarking</h1>
+                
+                
+                  <span class="post-meta">
+  Posted on July 26, 2012
+  
+</span>
+
+
+                
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <p>Well, I have done a spot of benchmarking. Specifically using 3DMark06 and the Resident Evil 5 benchmarking tool. If you are wondering what I am talking about here is an <a href="http://www.goparker.com/2012/07/my-diy-egpu-project-introduction.html" target="_blank">introduction</a> and a <a href="http://www.goparker.com/2012/07/my-diy-egpu-project-delivery-and-test.html" target="_blank">follow-up</a>.</p>
+
+<p>I guess a brief recap wouldn’t be out of place. I have a laptop with integrated graphics. This severely limits the games that I can play. This makes me sad. I have read that I can put together an adapter that plugs in to the ExpressCard slot in my laptop that allows me to use a desktop GPU to power the graphics. This makes me happy.</p>
+
+<p>Now, to the benchmarks. First 3DMark06: <a href="http://3dmark.com/3dm06/16794776" target="_blank">before</a> and <a href="http://3dmark.com/3dm06/16794662" target="_blank">after</a>.</p>
+
+<div id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:65c3ee47-7ab3-4d90-b7b7-cfe2e4861e1f" class="wlWriterEditableSmartContent" style="display:inline;float:none;margin:0;padding:0;">
+  <a title="For the link averse: before (left) and after (right)" href="http://lh3.ggpht.com/-ZPYqCZpxgAU/UBHIdOvJ0zI/AAAAAAAAAKo/Go2LQthUoSo/gpu13-8x6.png?imgmax=800" rel="thumbnail"><img src="http://lh6.ggpht.com/-ZymPyu8FgEg/UBHId0Cdq_I/AAAAAAAAAKs/0byAkG32rlc/gpu13%25255B7%25255D.png?imgmax=800" alt="" width="580" height="291" border="0" /></a>
+</div>
+
+<p>Not bad I think. A threefold increase from 1207 to 3654 on the 3DMark06 hand-wavy score of magic beans. Next, bring on to the Zombies!</p>
+
+<p>The Resident Evil 5 benchmark program runs through a fixed and variable scene and logs the average frames-per-second (fps). The first of the results is the fixed scene where the integrated GPU managed a shameful 8.0fps, soundly thrashed by the eGPU at 23.8fps (though still on the low side for playability).</p>
+
+<div id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:eb8c6032-22d7-4981-ab5d-3eb4c24b3827" class="wlWriterEditableSmartContent" style="display:inline;float:none;margin:0;padding:0;">
+  <a title="For the fixed scene: before (top) and after (bottom)" href="http://lh6.ggpht.com/-_xQ0p0jv-eY/UBHIjO5gaiI/AAAAAAAAAK4/g7dzz74SHCM/gpu16-8x6.png?imgmax=800" rel="thumbnail"><img src="http://lh4.ggpht.com/-WQGi1Yi05_c/UBHIlpMgHII/AAAAAAAAALA/CMc-JiR0W0o/gpu16%25255B5%25255D.png?imgmax=800" alt="" width="580" height="538" border="0" /></a>
+</div>
+
+<p>For the variable scene another pleasing result. Up from an unplayable 9.6fps to 40.8fps which is pretty respectable.</p>
+
+<div id="scid:8747F07C-CDE8-481f-B0DF-C6CFD074BF67:5c4fb99c-b408-46f1-b5cb-8cdf271f24c3" class="wlWriterEditableSmartContent" style="display:inline;float:none;margin:0;padding:0;">
+  <a title="For the variable scene: before (top) and after (bottom)" href="http://lh5.ggpht.com/-_EiejkF93EE/UBHIqD77HqI/AAAAAAAAALI/SaH6k15098s/gpu15-8x6.png?imgmax=800" rel="thumbnail"><img src="http://lh4.ggpht.com/-BqGdhfIrJAU/UBHItrDAY4I/AAAAAAAAALQ/3Knz37GQk7U/gpu15%25255B9%25255D.png?imgmax=800" alt="" width="580" height="561" border="0" /></a>
+</div>
+
+<p>And now for the test that makes it all worth while, the one we (I) have been waiting for. Can I play DayZ on my laptop? YES! I am very pleased. Next things on the to do list for this project are: buy a graphics card (almost certainly second hand from eBay) to replace the borrowed one I was testing with, and construct some kind of enclosure to clear my desk of the precariously balanced computer componentry from this project. For the graphics card I am aiming for something like the Nvidia GTX460 which I understand has a good performance-to-value ratio. When I do I will rerun the benchmarks (they should have improved) and let you know how it goes. Same goes for the enclosure construction and modding.</p>
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="http://goparker.com/post/2012-07-26-my-diy-egpu-project-delivery-and-test/" data-toggle="tooltip" data-placement="top" title="My DIY eGPU Project – Delivery and Test">&larr; Previous Post</a>
+            </li>
+          
+          
+            <li class="next">
+              <a href="http://goparker.com/post/2012-07-31-my-diy-egpu-project-the-hawk/" data-toggle="tooltip" data-placement="top" title="My DIY eGPU Project – The Hawk">Next Post &rarr;</a>
+            </li>
+          
+        </ul>
+      
+
+
+      
+
+      <br>
+      
+      
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+              <li>
+                <a href="https://github.com/davidparkerdr" title="GitHub">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/davidparkerdr" title="Twitter">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://linkedin.com/in/davidparkerdr" title="LinkedIn">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/user/DavidParkerDr" title="Youtube">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+          
+          <li>
+            
+            <a href="http://goparker.com/index.xml" title="RSS">
+            
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+            
+              <a href="http://goparker.com">David Parker</a>
+            
+          
+
+          &nbsp;&bull;&nbsp;
+          2018
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="http://goparker.com/">goParker</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="http://gohugo.io">Hugo v0.40.2</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js" integrity="sha384-/y1Nn9+QQAipbNQWU65krzJralCnuOasHncUFXGkdwntGeSvQicrYkiUBwsgUqc1" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="http://goparker.com/js/main.js" integrity="sha384-bffXJVacN5awc65ZqPQ08t7WRWGZlPfMg2jnqaGjH5J4tXTiPdq4TEwp+8128yzJ" crossorigin="anonymous"></script><script> renderMathInElement(document.body); </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script>
+<script src="http://goparker.com/js/load-photoswipe.js" integrity="sha384-uAfRKQI9hKItmKIfT8m94IAso2Sjusq+Orgkaa8A/HgLWAu02/IHNLQxgRCFfS84" crossorigin="anonymous"></script>
+
+
+
+
+<link rel="pingback" href="https://webmention.io/networkhobo.com/xmlrpc" />
+<link rel="webmention" href="https://webmention.io/networkhobo.com/webmention" />
+<link href="https://twitter.com/dancwilliams" rel="me">
+<script src="http://goparker.com/js/dan_custom.js"  integrity="sha384-y3Phdn+xh4wyd5h0srJMI+QkaOUEhZTJvT/ZR+bTuo3kfWd1MHFGyAJZ/GWE/Zrc" crossorigin="anonymous"></script>
+
+  </body>
+</html>
+
