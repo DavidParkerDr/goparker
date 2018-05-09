@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows Phone 7 on goParker</title>
-    <link>https://davidparkerdr.github.io/yourblog2/tags/windows-phone-7/</link>
+    <link>http://goparker.com/tags/windows-phone-7/</link>
     <description>Recent content in Windows Phone 7 on goParker</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 20 Jul 2012 23:19:00 +0000</lastBuildDate>
     
-	<atom:link href="https://davidparkerdr.github.io/yourblog2/tags/windows-phone-7/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://goparker.com/tags/windows-phone-7/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Memory of a Goldfish</title>
-      <link>https://davidparkerdr.github.io/yourblog2/2012/07/20/memory-of-a-goldfish/</link>
+      <link>http://goparker.com/2012/07/20/memory-of-a-goldfish/</link>
       <pubDate>Fri, 20 Jul 2012 23:19:00 +0000</pubDate>
       
-      <guid>https://davidparkerdr.github.io/yourblog2/2012/07/20/memory-of-a-goldfish/</guid>
+      <guid>http://goparker.com/2012/07/20/memory-of-a-goldfish/</guid>
       <description>This game was my first foray into Windows Phone 7 development. It is a Silverlight app based on the card game of Memory (as I knew it, though it is also known by many other names according to Wikipedia). The idea is that you turn over the &amp;#8216;cards&amp;#8217; in pairs; if they match then you get to keep them. If they don&amp;#8217;t match then they are flipped back over and you get another try.</description>
     </item>
     
