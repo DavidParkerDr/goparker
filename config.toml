@@ -9,8 +9,8 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = false
 
-[permalinks]
-  post = "/:year/:month/:day/:title/"
+#[permalinks]
+#  post = "post/:year/:month/:day/:title/"
 
 [Params]
   subtitle = "We've gone Parker, have you?"

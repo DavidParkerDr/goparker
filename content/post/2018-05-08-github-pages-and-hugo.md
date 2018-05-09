@@ -163,5 +163,3 @@ All of that should get you going. There is still plenty of extra stuff to learn 
 
 Note that there is a short delay before the GitHub Pages are updated, but your new site should be visible at the URL. 
 
-Test
-
