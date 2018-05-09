@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Poem on goParker.com</title>
+    <title>Poem on goParker</title>
     <link>http://goparker.com/tags/poem/</link>
-    <description>Recent content in Poem on goParker.com</description>
+    <description>Recent content in Poem on goParker</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 13 Dec 2015 20:23:33 +0000</lastBuildDate>
     
@@ -12,10 +12,10 @@
     
     <item>
       <title>Frog poem</title>
-      <link>http://goparker.com/post/2015-12-13-frog-poem/</link>
+      <link>http://goparker.com/2015/12/13/frog-poem/</link>
       <pubDate>Sun, 13 Dec 2015 20:23:33 +0000</pubDate>
       
-      <guid>http://goparker.com/post/2015-12-13-frog-poem/</guid>
+      <guid>http://goparker.com/2015/12/13/frog-poem/</guid>
       <description>Under a rock and hidden deep,
 There lies a frog, he’s half asleep.
 He dreams no dreams of kingdoms far,

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Egpu on goParker.com</title>
+    <title>Egpu on goParker</title>
     <link>http://goparker.com/tags/egpu/</link>
-    <description>Recent content in Egpu on goParker.com</description>
+    <description>Recent content in Egpu on goParker</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 01 Aug 2012 09:55:00 +0000</lastBuildDate>
     
@@ -12,49 +12,49 @@
     
     <item>
       <title>My DIY eGPU Project – Speed boost</title>
-      <link>http://goparker.com/post/2012-08-01-my-diy-egpu-project-speed-boost/</link>
+      <link>http://goparker.com/2012/08/01/my-diy-egpu-project--speed-boost/</link>
       <pubDate>Wed, 01 Aug 2012 09:55:00 +0000</pubDate>
       
-      <guid>http://goparker.com/post/2012-08-01-my-diy-egpu-project-speed-boost/</guid>
+      <guid>http://goparker.com/2012/08/01/my-diy-egpu-project--speed-boost/</guid>
       <description>This morning, some lovely person using the handle Burger commented on one of my earlier posts suggesting that if I connect the eGPU setup after boot-up is complete then I should get a significant boost due to PCIe compression. I little bit of Googling reveals a bit more detail here, but it seems that you need to have a ‘modern’ Intel integrated GPU in combination with one of a fairly narrow range of Nvidia kit.</description>
     </item>
     
     <item>
       <title>My DIY eGPU Project – The Hawk</title>
-      <link>http://goparker.com/post/2012-07-31-my-diy-egpu-project-the-hawk/</link>
+      <link>http://goparker.com/2012/07/31/my-diy-egpu-project--the-hawk/</link>
       <pubDate>Tue, 31 Jul 2012 22:20:00 +0000</pubDate>
       
-      <guid>http://goparker.com/post/2012-07-31-my-diy-egpu-project-the-hawk/</guid>
+      <guid>http://goparker.com/2012/07/31/my-diy-egpu-project--the-hawk/</guid>
       <description>Today my new graphics card arrived from eBay. It is a second hand MSI N460GTX Hawk which I picked up for a reasonable £79.02 including postage. This puts the running total for the eGPU project (not including bits that I had lying around) at £166.10.
   So how does it perform? Well you may remember that I previously benchmarked both the integrated graphics of my laptop and a borrowed Geforce 9600GT in the eGPU adapter with the eGPU providing a splendid 3 times increase in the 3DMark06 score.</description>
     </item>
     
     <item>
       <title>My DIY eGPU project – Benchmarking</title>
-      <link>http://goparker.com/post/2012-07-26-my-diy-egpu-project-benchmarking/</link>
+      <link>http://goparker.com/2012/07/26/my-diy-egpu-project--benchmarking/</link>
       <pubDate>Thu, 26 Jul 2012 22:44:00 +0000</pubDate>
       
-      <guid>http://goparker.com/post/2012-07-26-my-diy-egpu-project-benchmarking/</guid>
+      <guid>http://goparker.com/2012/07/26/my-diy-egpu-project--benchmarking/</guid>
       <description>Well, I have done a spot of benchmarking. Specifically using 3DMark06 and the Resident Evil 5 benchmarking tool. If you are wondering what I am talking about here is an introduction and a follow-up.
 I guess a brief recap wouldn’t be out of place. I have a laptop with integrated graphics. This severely limits the games that I can play. This makes me sad. I have read that I can put together an adapter that plugs in to the ExpressCard slot in my laptop that allows me to use a desktop GPU to power the graphics.</description>
     </item>
     
     <item>
       <title>My DIY eGPU Project – Delivery and Test</title>
-      <link>http://goparker.com/post/2012-07-26-my-diy-egpu-project-delivery-and-test/</link>
+      <link>http://goparker.com/2012/07/26/my-diy-egpu-project--delivery-and-test/</link>
       <pubDate>Thu, 26 Jul 2012 16:32:00 +0000</pubDate>
       
-      <guid>http://goparker.com/post/2012-07-26-my-diy-egpu-project-delivery-and-test/</guid>
+      <guid>http://goparker.com/2012/07/26/my-diy-egpu-project--delivery-and-test/</guid>
       <description>Today (26th) the adapter parts for my eGPU project arrived from Taiwan. I paid for it on the 20th via PayPal and on the 24th the PayPal status was updated to let me know that my purchase had shipped with a DHL tracking number. I am pretty happy with the delivery time.
 Something that I knew was a possibility, though was still slightly vexing, was an accompanying VAT charge from Customs amounting to £12.</description>
     </item>
     
     <item>
       <title>My DIY eGPU Project – Introduction</title>
-      <link>http://goparker.com/post/2012-07-20-my-diy-egpu-project-introduction/</link>
+      <link>http://goparker.com/2012/07/20/my-diy-egpu-project--introduction/</link>
       <pubDate>Fri, 20 Jul 2012 12:42:00 +0000</pubDate>
       
-      <guid>http://goparker.com/post/2012-07-20-my-diy-egpu-project-introduction/</guid>
+      <guid>http://goparker.com/2012/07/20/my-diy-egpu-project--introduction/</guid>
       <description>The PC that I use for work (and play) is a Toshiba Portégé R700-160 laptop. It is a delightfully sleek and portable device that packs a pretty decent Intel Core i5-520M Processor into its tiny chassis. A (perhaps unavoidable) weakness of the machine is its graphics capability as it relies on the integrated Intel Graphics Media Accelerator HD GPU. It can just about manage Civilization V but anything more graphically intensive is a shuddering no-no.</description>
     </item>
     

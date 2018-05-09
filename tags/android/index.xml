@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Android on goParker.com</title>
+    <title>Android on goParker</title>
     <link>http://goparker.com/tags/android/</link>
-    <description>Recent content in Android on goParker.com</description>
+    <description>Recent content in Android on goParker</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 10 Jan 2013 17:17:00 +0000</lastBuildDate>
     
@@ -12,10 +12,10 @@
     
     <item>
       <title>Boarding the Android Express</title>
-      <link>http://goparker.com/post/2013-01-10-boarding-the-android-express/</link>
+      <link>http://goparker.com/2013/01/10/boarding-the-android-express/</link>
       <pubDate>Thu, 10 Jan 2013 17:17:00 +0000</pubDate>
       
-      <guid>http://goparker.com/post/2013-01-10-boarding-the-android-express/</guid>
+      <guid>http://goparker.com/2013/01/10/boarding-the-android-express/</guid>
       <description>Today I took possession of my shiny new Samsung Galaxy Note II.
 My previous daily device was the Samsung Omnia 7 which was one of the debut devices of the Windows Phone 7 range. It was a close run race between the Note II and the flagship Windows Phone 8 device the Nokia Lumia 920.
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &#34;Logo Title Text 1&#34;)  ![Example image](/images/phones-8x6.jpg) As you can see from the picture it is quite a step up in size, going from a 4” screen to a 5.</description>
