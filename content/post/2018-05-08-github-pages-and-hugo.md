@@ -27,7 +27,7 @@ Also you will need to install Hugo. To do this I first installed Chocolatey (htt
 @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
 ```
 
-One Chocolatey is installed you can use it to install Hugo using the command prompt:
+Once Chocolatey is installed you can use it to install Hugo using the command prompt:
 
 ```bash
 choco install hugo -confirm
@@ -161,8 +161,7 @@ This batch of commands will generate the site contents from your source and then
 
 All of that should get you going. There is still plenty of extra stuff to learn about using Hugo, but that is way out of scope for this post which is already dragging on a bit. As a bit of a pointer, to add and edit posts on your site you need to use a text editor to edit the *.md Markdown files. Once you are happy with the changes, just run refreshSite.bat.
 
-Note that there is a short delay before the GitHub Pages are updated, but your new site should be visible at the URL.
-
+Note that there is a short delay before the GitHub Pages are updated, but your new site should be visible at the URL. 
 
 
 

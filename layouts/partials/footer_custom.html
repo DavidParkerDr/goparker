@@ -1,7 +1,8 @@
 <!--
-If you want to include any custom html just before </body>, put it in this file.
-Or you can delete these file if you don't need it.
+If you want to include any custom html just before </body>, put it in /layouts/footer_custom.html
+Do not put anything in this file - it's only here so that hugo won't throw an error if /layouts/footer_custom.html doesn't exist.
 -->
-<!-- for example, you could include some js libraries:
-<script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.19.1/vis.js" integrity="sha256-HdIuWBZj4eftihsoDCJoMYjZi6aNVaw7YlUpzKT3ZxI=" crossorigin="anonymous"></script>
--->
+<link rel="pingback" href="https://webmention.io/networkhobo.com/xmlrpc" />
+<link rel="webmention" href="https://webmention.io/networkhobo.com/webmention" />
+<link href="https://twitter.com/dancwilliams" rel="me">
+<script src="{{ "js/dan_custom.js" | absURL }}"  integrity="sha384-y3Phdn+xh4wyd5h0srJMI+QkaOUEhZTJvT/ZR+bTuo3kfWd1MHFGyAJZ/GWE/Zrc" crossorigin="anonymous"></script>
