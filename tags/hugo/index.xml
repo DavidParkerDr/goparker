@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on goParker</title>
+    <title>Hugo on goParker.com</title>
     <link>http://goparker.com/tags/hugo/</link>
-    <description>Recent content in Hugo on goParker</description>
+    <description>Recent content in Hugo on goParker.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 08 May 2018 00:00:00 +0000</lastBuildDate>
     
@@ -12,11 +12,11 @@
     
     <item>
       <title>Using Github Pages with Hugo</title>
-      <link>http://goparker.com/2018/05/08/using-github-pages-with-hugo/</link>
+      <link>http://goparker.com/post/2018-05-08-github-pages-and-hugo/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://goparker.com/2018/05/08/using-github-pages-with-hugo/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../../img/post_images/180508_jenny.png&#34; alt=&#34;alt text&#34; title=&#34;Sun beam clean&#34; /&gt;&lt;/p&gt;
+      <guid>http://goparker.com/post/2018-05-08-github-pages-and-hugo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://goparker.com/img/post_images/180508_jenny.png&#34; alt=&#34;alt text&#34; title=&#34;Sun beam clean&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In a recent post about blogging and CSBlogs (&lt;a href=&#34;http://goparker.com/post/2018-04-23-csblogs-and-blogging/&#34;&gt;http://goparker.com/post/2018-04-23-csblogs-and-blogging/&lt;/a&gt;) I mentioned that I have been playing around with using the static site generation tool Hugo (&lt;a href=&#34;https://gohugo.io/&#34;&gt;https://gohugo.io/&lt;/a&gt;) with GitHub Pages (&lt;a href=&#34;https://pages.github.com/&#34;&gt;https://pages.github.com/&lt;/a&gt;) as a means of hosting various websites at no cost.&lt;/p&gt;
 

@@ -14,6 +14,7 @@ pre code {
 }
 
 @media only screen and (min-width: 767px) {
+	
   pre code {
     overflow: auto;
     word-wrap: normal;
