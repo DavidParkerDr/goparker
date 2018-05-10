@@ -26,3 +26,5 @@ A short video captures a little bit of the look and feel of it, though obviously
 {{< youtube lEdTs8_2y_E >}}
 
 We plan on polishing it somewhat (and adding the game play) before releasing it to various platforms so watch this space.
+
+Thanks to Simon Grey who was my co-programmer(my cogrammer?) and also to Lewis Jackson who made the lovely art assets and Damien Green who made the great music.
