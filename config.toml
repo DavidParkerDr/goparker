@@ -1,6 +1,4 @@
 baseurl = "http://goparker.com/"
-RelativeURLs=true
-CanonifyURLs=true
 DefaultContentLanguage = "en"
 title = "goParker"
 theme = "beautifulhugo"
