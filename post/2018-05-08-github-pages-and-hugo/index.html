@@ -120,19 +120,19 @@ In a recent post about blogging and CSBlogs (http://goparker.com/post/2018-04-23
         
           
             <li>
-              <a title="About" href="../../page/about">About</a>
+              <a title="About" href="/page/about">About</a>
             </li>
           
         
           
             <li>
-              <a title="Blog" href="../../post">Blog</a>
+              <a title="Blog" href="/post">Blog</a>
             </li>
           
         
           
             <li>
-              <a title="Tags" href="../../tags">Tags</a>
+              <a title="Tags" href="/tags">Tags</a>
             </li>
           
         
@@ -200,7 +200,7 @@ In a recent post about blogging and CSBlogs (http://goparker.com/post/2018-04-23
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-        <p><img src="../../img/post_images/180508_jenny.png" alt="alt text" title="Sun beam clean" /></p>
+        <p><img src="/img/post_images/180508_jenny.png" alt="alt text" title="Sun beam clean" /></p>
 
 <p>In a recent post about blogging and CSBlogs (<a href="http://goparker.com/post/2018-04-23-csblogs-and-blogging/">http://goparker.com/post/2018-04-23-csblogs-and-blogging/</a>) I mentioned that I have been playing around with using the static site generation tool Hugo (<a href="https://gohugo.io/">https://gohugo.io/</a>) with GitHub Pages (<a href="https://pages.github.com/">https://pages.github.com/</a>) as a means of hosting various websites at no cost.</p>
 
@@ -222,7 +222,7 @@ In a recent post about blogging and CSBlogs (http://goparker.com/post/2018-04-23
 <div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">@<span class="s2">&#34;%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe&#34;</span> -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command <span class="s2">&#34;iex ((New-Object System.Net.WebClient).DownloadString(&#39;https://chocolatey.org/install.ps1&#39;))&#34;</span> <span class="o">&amp;&amp;</span> SET <span class="s2">&#34;PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin&#34;</span></code></pre></div>
 <p>Once Chocolatey is installed you can use it to install Hugo using the command prompt:</p>
 <div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">choco install hugo -confirm</code></pre></div>
-<p><img src="../../img/post_images/180508_github_repo.png" alt="alt text" title="Make a new repository" /></p>
+<p><img src="/img/post_images/180508_github_repo.png" alt="alt text" title="Make a new repository" /></p>
 
 <p>So the first step is to create new repository on GitHub. For this example I have called it &ldquo;yourblog&rdquo;.</p>
 
@@ -246,19 +246,19 @@ git push origin master</code></pre></div>
 git push origin source</code></pre></div>
 <p>Next comes a little bit of wizardry that allows you to have a mixed of branches checked out at the same time. We do this so that we can build the site in to a public folder, and have it be mirrored in the master branch.</p>
 <div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">git worktree add -B master public origin/master</code></pre></div>
-<p><img src="../../img/post_images/180508_github_settings.png" alt="alt text" title="Click on settings" /></p>
+<p><img src="/img/post_images/180508_github_settings.png" alt="alt text" title="Click on settings" /></p>
 
 <p>Now we need to visit the repository in the browser to configure it for use with GitHub Pages. Once you have navigated to the repository, click on settings link.</p>
 
-<p><img src="../../img/post_images/180508_github_pages.png" alt="alt text" title="Find the GitHub Pages section" /></p>
+<p><img src="/img/post_images/180508_github_pages.png" alt="alt text" title="Find the GitHub Pages section" /></p>
 
 <p>Scroll down to github pages section. By default it is disabled and set to &ldquo;none&rdquo;.</p>
 
-<p><img src="../../img/post_images/180508_github_pages_set.png" alt="alt text" title="Set it to master" /></p>
+<p><img src="/img/post_images/180508_github_pages_set.png" alt="alt text" title="Set it to master" /></p>
 
 <p>Select master branch from the combobox then click save.</p>
 
-<p><img src="../../img/post_images/180508_github_pages_url.png" alt="alt text" title="The url is revealed" /></p>
+<p><img src="/img/post_images/180508_github_pages_url.png" alt="alt text" title="The url is revealed" /></p>
 
 <p>Now the GitHub Pages section will show the url of your new site which in my example is: <a href="https://davidparkerdr.github.io/yourblog/">https://davidparkerdr.github.io/yourblog/</a>. You will need this later.</p>
 
