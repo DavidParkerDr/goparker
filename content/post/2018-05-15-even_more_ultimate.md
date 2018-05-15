@@ -1,9 +1,9 @@
 ---
-title: Ultimate King Domino
-date: 2018-05-14
+title: Even More Ultimate King Domino
+date: 2018-05-15
 tags: ["boardgame", "3d printer", "optimisation"]
 ---
-![alt text](/img/post_images/1805145_kingdomino.png "New highscore!")
+![alt text](/img/post_images/180515_kingdomino.png "New highscore!")
 
 So yesterday I talked about Kingdomino and what the maximum possible score is in two player 7 x 7 grid mode is (http://goparker.com/post/2018-05-14-ultimate-king-domino/). I showed a possible contender (267 points) and asked whether you could do better, throwing down the gauntlet. Well I picked the gauntlet back up again and did better myself.
 
