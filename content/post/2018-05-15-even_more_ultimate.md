@@ -9,7 +9,7 @@ So yesterday I talked about Kingdomino and what the maximum possible score is in
 
 <!--more-->
 
-286 points! And here is the breakdown for the image shown above. I think this may be an actual maximum. I went through several iterations to get here.
+286 points! The table below shows the breakdown for the image shown above. I think this may be an actual maximum. I went through several iterations to get here.
 
 | Colours        | Number of Tiles | Number of Spots | Total Points |
 | -------------- |:---------------:|:-----:|:-----:|
@@ -22,5 +22,7 @@ So yesterday I talked about Kingdomino and what the maximum possible score is in
 | Central Castle   |   |  | 10 |
 | Used all tiles   |   |  | 5 |
 | **total**   |   |  | 286 |
+
+It is slightly annoying that there are 4 non-scoring tiles there (the pink and blue ones), but there was more value in sacrificing them to bolster the other colours.
 
 So I ask again: Can you do better? This time I carefully remove my glove before slapping it sharply across your cheek.
