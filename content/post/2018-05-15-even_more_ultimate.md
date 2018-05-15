@@ -15,7 +15,7 @@ So yesterday I talked about Kingdomino and what the maximum possible score is in
 | -------------- |:---------------:|:-----:|:-----:|
 | Blue Squares   | 1 | 0 | 1 x 0 = 0 |
 | Grey Circles   | 17 | 5 | 17 x 5 = 85 |
-| Pink Triangles | 3 | 60 | 3 x 0 = 0 |
+| Pink Triangles | 3 | 0 | 3 x 0 = 0 |
 | Yellow Stars   | 12 | 6 | 12 x 6 = 72 |
 | Green Crosses  | 9 | 6 | 9 x 6 = 54 |
 | White Hearts   | 6  | 10 | 6 x 10 = 60 |
