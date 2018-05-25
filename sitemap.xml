@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://goparker.com/post/2018-05-25-plastic-parts-printed/</loc>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://goparker.com/post/2018-05-15-even_more_ultimate/</loc>
     <lastmod>2018-05-15T00:00:00+00:00</lastmod>
   </url>
@@ -124,7 +129,7 @@
   
   <url>
     <loc>http://goparker.com/</loc>
-    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -135,7 +140,7 @@
   
   <url>
     <loc>http://goparker.com/tags/3d-printer/</loc>
-    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -263,6 +268,12 @@
   </url>
   
   <url>
+    <loc>http://goparker.com/tags/hullpixelbot/</loc>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://goparker.com/tags/juicer/</loc>
     <lastmod>2012-04-28T16:48:00+00:00</lastmod>
     <priority>0</priority>
@@ -305,7 +316,7 @@
   
   <url>
     <loc>http://goparker.com/post/</loc>
-    <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

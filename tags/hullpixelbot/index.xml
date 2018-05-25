@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hullpixelbot on goParker</title>
+    <link>http://goparker.com/tags/hullpixelbot/</link>
+    <description>Recent content in Hullpixelbot on goParker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 25 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://goparker.com/tags/hullpixelbot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plastic Parts Printed</title>
+      <link>http://goparker.com/post/2018-05-25-plastic-parts-printed/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://goparker.com/post/2018-05-25-plastic-parts-printed/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://goparker.com/img/post_images/180525_all_the_bits.png&#34; alt=&#34;alt text&#34; title=&#34;All the bits&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I finally decided that I should have a crack at building one of Rob Mile&amp;rsquo;s Hull Pixel Bots (&lt;a href=&#34;http://hullpixelbot.com/&#34;&gt;http://hullpixelbot.com/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;I have completed the first step by printing out the plastic parts.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
