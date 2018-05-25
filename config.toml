@@ -17,6 +17,10 @@ pygmentsCodefencesGuessSyntax = false
   dateFormat = "January 2, 2006"
   rss = true
   comments = false
+  staticman_api = "https://api.staticman.net/v2/entry/DavidParkerDr/goparker/source/comments" #Add staticman API URL to enable staticman comments
+  
+  recaptcha_siteKey = "6LciilsUAAAAAJFGp-Bnlh13W80eAtCoUJnGMeuq"
+  recaptcha_secret = "6LciilsUAAAAALuklAhLdtYdtrCBxUaEZg7dLkWI"
   
   readingTime = true
   socialShare = false
