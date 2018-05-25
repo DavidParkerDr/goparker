@@ -16,7 +16,7 @@ pygmentsCodefencesGuessSyntax = false
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   rss = true
-  comments = false
+  comments = true
   staticman_api = "https://api.staticman.net/v2/entry/DavidParkerDr/goparker/source/comments" #Add staticman API URL to enable staticman comments
   
   recaptcha_siteKey = "6LciilsUAAAAAJFGp-Bnlh13W80eAtCoUJnGMeuq"

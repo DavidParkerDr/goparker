@@ -33,12 +33,7 @@
       <textarea name="fields[body]" class="post-comment-field" placeholder="{{ i18n "useMarkdown" }}" rows="10"></textarea>
     </fieldset>
     
-    <fieldset>
-      <div class="notify-me">
-        <input type="checkbox" id="comment-form-reply" name="options[subscribe]" value="email">
-        Send me an email when someone comments on this post.
-      </div>
-    </fieldset>
+    
 
     <fieldset>
       <div class="g-recaptcha" data-sitekey="{{ .Site.Params.recaptcha_siteKey }}" data-callback="enableBtn"></div>
