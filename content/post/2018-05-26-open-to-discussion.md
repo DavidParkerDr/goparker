@@ -3,7 +3,7 @@ title: Open to Discussion
 date: 2018-05-26
 tags: ["blog", "comments"]
 ---
-![alt text](/img/post_images/180525_jenny.png "Check out the flowers!")
+![alt text](/img/post_images/180526_jenny.png "Check out the flowers!")
 
 In one of my previous on the value of blogging (http://goparker.com/post/2018-04-23-csblogs-and-blogging/) I remarked on how once a random internet stranger had left a comment that substantially improved the performance of the eGPU setup that I was blogging about. That was awesome, and I really think of it warmly.
 
