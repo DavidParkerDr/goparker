@@ -7,7 +7,7 @@ tags: ["blog", "comments"]
 
 In one of my previous on the value of blogging (http://goparker.com/post/2018-04-23-csblogs-and-blogging/) I remarked on how once a random internet stranger had left a comment that substantially improved the performance of the eGPU setup that I was blogging about. That was awesome, and I really think of it warmly.
 
-It also occured to me as I wrote this that the I had the blog currently setup, using static site generator Hugo (http://goparker.com/post/2018-05-08-github-pages-and-hugo/) I did not have the capability for people to leave comments.
+It also occured to me as I wrote this that the way I had the blog currently setup, using static site generator Hugo (http://goparker.com/post/2018-05-08-github-pages-and-hugo/) I did not have the capability for people to leave comments.
 
 This is where Staticman comes in.
 <!--more-->
