@@ -20,7 +20,7 @@
 
 &lt;p&gt;In one of my previous on the value of blogging (&lt;a href=&#34;http://goparker.com/post/2018-04-23-csblogs-and-blogging/&#34;&gt;http://goparker.com/post/2018-04-23-csblogs-and-blogging/&lt;/a&gt;) I remarked on how once a random internet stranger had left a comment that substantially improved the performance of the eGPU setup that I was blogging about. That was awesome, and I really think of it warmly.&lt;/p&gt;
 
-&lt;p&gt;It also occured to me as I wrote this that the I had the blog currently setup, using static site generator Hugo (&lt;a href=&#34;http://goparker.com/post/2018-05-08-github-pages-and-hugo/&#34;&gt;http://goparker.com/post/2018-05-08-github-pages-and-hugo/&lt;/a&gt;) I did not have the capability for people to leave comments.&lt;/p&gt;
+&lt;p&gt;It also occured to me as I wrote this that the way I had the blog currently setup, using static site generator Hugo (&lt;a href=&#34;http://goparker.com/post/2018-05-08-github-pages-and-hugo/&#34;&gt;http://goparker.com/post/2018-05-08-github-pages-and-hugo/&lt;/a&gt;) I did not have the capability for people to leave comments.&lt;/p&gt;
 
 &lt;p&gt;This is where Staticman comes in.
 &lt;/p&gt;</description>
