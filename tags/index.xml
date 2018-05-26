@@ -58,7 +58,7 @@
     <item>
       <title>Blog</title>
       <link>http://goparker.com/tags/blog/</link>
-      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://goparker.com/tags/blog/</guid>
       <description></description>
@@ -88,6 +88,15 @@
       <pubDate>Sat, 15 Nov 2014 20:22:05 +0000</pubDate>
       
       <guid>http://goparker.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comments</title>
+      <link>http://goparker.com/tags/comments/</link>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://goparker.com/tags/comments/</guid>
       <description></description>
     </item>
     
