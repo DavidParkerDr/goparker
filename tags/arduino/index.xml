@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arduino on goParker</title>
+    <link>http://goparker.com/tags/arduino/</link>
+    <description>Recent content in Arduino on goParker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 27 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://goparker.com/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>It&#39;s Alive!</title>
+      <link>http://goparker.com/post/2018-05-27-its-alive/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://goparker.com/post/2018-05-27-its-alive/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://goparker.com/img/post_images/180527_alive.gif&#34; alt=&#34;alt text&#34; title=&#34;It&#39;s Alive!&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The other day I started my HullPixelBot journey (&lt;a href=&#34;http://goparker.com/post/2018-05-25-plastic-parts-printed/&#34;&gt;http://goparker.com/post/2018-05-25-plastic-parts-printed/&lt;/a&gt;) and I have made some progress since then.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
