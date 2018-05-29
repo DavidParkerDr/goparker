@@ -5,10 +5,33 @@
     <link>http://goparker.com/tags/hullpixelbot/</link>
     <description>Recent content in Hullpixelbot on goParker</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 27 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://goparker.com/tags/hullpixelbot/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dead Led</title>
+      <link>http://goparker.com/post/2018-05-29-dead_led/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://goparker.com/post/2018-05-29-dead_led/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://goparker.com/img/post_images/180529_dead_led.png&#34; alt=&#34;alt text&#34; title=&#34;Dead Led&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a little of a public service announcement as I didn&amp;rsquo;t follow the instructions and have now killed my NeoPixel ring leds.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Smiler!</title>
+      <link>http://goparker.com/post/2018-05-28-smiler/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://goparker.com/post/2018-05-28-smiler/</guid>
+      <description>I have finally got the various bolts required to assemble the electronics in to the PixelBot chassis. So here she is.
+I felt that I couldn&amp;rsquo;t just keep calling the PixelBot &amp;ldquo;the PixelBot&amp;rdquo;. So her new name is Smiler.</description>
+    </item>
     
     <item>
       <title>It&#39;s Alive!</title>
