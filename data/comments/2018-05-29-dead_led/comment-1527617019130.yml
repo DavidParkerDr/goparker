@@ -1,0 +1,10 @@
+_id: 9d1ae9b0-636a-11e8-a8d7-d9114942b4d2
+_parent: 2018-05-29-dead_led
+reply_to: ''
+name: Rob Miles
+email: aa767cf7b29bf5640d6de5c2d0a1e558
+body: "Oh well. I've managed to do this to a couple of my LED rings over the years. However, it is not usually the lack of a capacitor and a resistor that causes a problem. I usually miss-wire them, or have the ground become disconnected which can cause nasty current flows through the controller. It can be a bit weird, because sometimes one or two leds work and the rest don't. And one time I got this rather nice random light feature that I really wanted to keep. \r\n\r\nConsider yourself a proper hardware engineer now that you've blown something up..."
+date: 1527617019
+tags:
+  - comment-subscription
+timestamp: 1527617019
