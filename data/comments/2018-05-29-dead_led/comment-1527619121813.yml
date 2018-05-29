@@ -1,0 +1,10 @@
+_id: 824f12a0-636f-11e8-a8d7-d9114942b4d2
+_parent: 2018-05-29-dead_led
+reply_to: 9d1ae9b0-636a-11e8-a8d7-d9114942b4d2
+name: David
+email: e2cdc25a71e31be27ebb160e970676a3
+body: "Ooh, my first proper comment with this new system.\r\n\r\nThe lights shown in the picture now seem to be permanently set like that now and all of the other ones are just off like you mentioned.\r\n\r\nI can't think of exactly what the sequence of events was before they died. I know that my Uno board arrived and I switched to it over the Leonardo that I borrowed. The new Uno was a cheap and cheerful one rather than an official Genuino one (like the Leonardo was) so maybe there is something with a built in protection going on there? Maybe it is all just a coincidence and I stopped being lucky."
+date: 1527619121
+tags:
+  - comment-subscription
+timestamp: 1527619121
