@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://goparker.com/post/2018-06-05-resurrection/</loc>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://goparker.com/post/2018-05-29-dead_led/</loc>
     <lastmod>2018-05-29T00:00:00+00:00</lastmod>
   </url>
@@ -149,7 +154,7 @@
   
   <url>
     <loc>http://goparker.com/</loc>
-    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -176,7 +181,7 @@
   
   <url>
     <loc>http://goparker.com/tags/arduino/</loc>
-    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -301,7 +306,7 @@
   
   <url>
     <loc>http://goparker.com/tags/hullpixelbot/</loc>
-    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -325,7 +330,7 @@
   
   <url>
     <loc>http://goparker.com/tags/neopixel/</loc>
-    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -354,7 +359,7 @@
   
   <url>
     <loc>http://goparker.com/post/</loc>
-    <lastmod>2018-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
