@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on goParker</title>
-    <link>http://goparker.com/page/</link>
+    <link>https://goparker.com/page/</link>
     <description>Recent content in Pages on goParker</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://goparker.com/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://goparker.com/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>All about me</title>
-      <link>http://goparker.com/page/about/</link>
+      <link>https://goparker.com/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://goparker.com/page/about/</guid>
+      <guid>https://goparker.com/page/about/</guid>
       <description>I have been in Computer Science at the University of Hull since 1999, first as an undergraduate, then through various flavours of postgraduate research, leading to now as a lecturer. I have held my lecturer post since 2011.</description>
     </item>
     
