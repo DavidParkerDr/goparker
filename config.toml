@@ -1,4 +1,4 @@
-baseurl = "http://goparker.com/"
+baseurl = "https://goparker.com/"
 DefaultContentLanguage = "en"
 title = "goParker"
 theme = "beautifulhugo"
@@ -28,7 +28,7 @@ pygmentsCodefencesGuessSyntax = false
 
 [Author]
   name = "David Parker"
-  website = "http://goparker.com"
+  website = "https://goparker.com"
   #email = "david@goparker.com"
   github = "davidparkerdr"
   twitter = "davidparkerdr"
