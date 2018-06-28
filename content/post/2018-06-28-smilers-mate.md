@@ -23,7 +23,7 @@ Finally, I also punched a load of holes in the design as it isn't necessary for 
 
 I eventually got around to doing all the soldering, and as it was such a nice evening I decided to do it in the open air in my garden. This was quite pleasant.
 
-I did have a slightly annoying experience. After I had finished all the soldering and wiring I went to flash it with the control code and it wouldn't even register when I plugged in the usb. I started of concerned that I had never tested the Arduino Uno board before doing all the soldering, so I had no idea if I had done something or the board has arrived faulty or what. I started yanking out the cables, not in a very scientific or methodical way, and all of a sudden lights appeared on the board! It wasn't dead.
+I did have a slightly annoying experience. After I had finished all the soldering and wiring I went to flash it with the control code and it wouldn't even register when I plugged in the usb. I started off concerned that I had never tested the Arduino Uno board before doing all the soldering, so I had no idea if I had done something or the board has arrived faulty or something. I started yanking out the cables, not in a very scientific or methodical way, and all of a sudden lights appeared on the board! It wasn't dead.
 
 So I flashed the board with my simple turn the robot and light the lights program and started plugging all the cables back in. This time I was a little more careful about approaching this systematically and I discovered that everything stopped working when I connected the power to the rear stepper motor driver (another component that I hadn't pre-tested). I established that it didn't matter what 5v or ground sockets I plugged it in to, thus isolating the problem to the board.
 
