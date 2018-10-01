@@ -8,6 +8,8 @@ tags: ["threethinggame", "music", "video"]
 <br/>
 A new music cover to entice the masses to Three Thing Game. This is for the 3rd and 4th November 2018 event.
 
+https://threethinggame.com/post/2018-10-01-the-autumn-event/
+
 <!--more-->
 
 Inspired by (and borrowing from) The Other Side - from the Greatest Showman soundtrack.
