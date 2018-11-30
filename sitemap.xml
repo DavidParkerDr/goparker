@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://goparker.com/post/2018-11-30-studio-gobo/</loc>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://goparker.com/post/2018-10-20-ukiepc-2018/</loc>
+    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goparker.com/post/2018-10-24-ukiepc-2018-update/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -189,7 +199,7 @@
   
   <url>
     <loc>https://goparker.com/</loc>
-    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -294,6 +304,12 @@
   <url>
     <loc>https://goparker.com/tags/employability/</loc>
     <lastmod>2018-04-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://goparker.com/tags/employment/</loc>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -412,7 +428,7 @@
   
   <url>
     <loc>https://goparker.com/post/</loc>
-    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -472,13 +488,19 @@
   
   <url>
     <loc>https://goparker.com/tags/university/</loc>
-    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://goparker.com/tags/video/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://goparker.com/tags/visit/</loc>
+    <lastmod>2018-11-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
