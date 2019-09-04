@@ -6,7 +6,7 @@ tags: ["3d printer", "underextrusion"]
 
 ![alt text](/img/post_images/190904_going_badly.png "Going badly")
 <br/>
-A little while ago I was designing an printing an update to my printer to allow it to use one less motor for controlling the z-axis. The basic printer design uses two lead screws to raise and lower the x-axis. It still does, but now it only uses one motor to control both screws instead of the original two. But that is not what this post is about. Instead it is about staying cool under circumstances to drive one mad.
+A little while ago I was designing and printing an update to my printer to allow it to use one less motor for controlling the z-axis. The basic printer design uses two lead screws to raise and lower the x-axis. It still does, but now it only uses one motor to control both screws instead of the original two. But that is not what this post is about. Instead it is about staying cool under circumstances to drive one mad.
 
 <!--more-->
 
