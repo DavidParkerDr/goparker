@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Comments on goParker</title>
+    <title>comments on goParker</title>
     <link>https://goparker.com/tags/comments/</link>
-    <description>Recent content in Comments on goParker</description>
+    <description>Recent content in comments on goParker</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 26 May 2018 00:00:00 +0000</lastBuildDate>
     
@@ -22,8 +22,7 @@
 
 &lt;p&gt;It also occured to me as I wrote this that the way I had the blog currently setup, using static site generator Hugo (&lt;a href=&#34;http://goparker.com/post/2018-05-08-github-pages-and-hugo/&#34;&gt;http://goparker.com/post/2018-05-08-github-pages-and-hugo/&lt;/a&gt;) I did not have the capability for people to leave comments.&lt;/p&gt;
 
-&lt;p&gt;This is where Staticman comes in.
-&lt;/p&gt;</description>
+&lt;p&gt;This is where Staticman comes in.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on goParker</title>
+    <title>blog on goParker</title>
     <link>https://goparker.com/tags/blog/</link>
-    <description>Recent content in Blog on goParker</description>
+    <description>Recent content in blog on goParker</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 26 May 2018 00:00:00 +0000</lastBuildDate>
     
@@ -22,8 +22,7 @@
 
 &lt;p&gt;It also occured to me as I wrote this that the way I had the blog currently setup, using static site generator Hugo (&lt;a href=&#34;http://goparker.com/post/2018-05-08-github-pages-and-hugo/&#34;&gt;http://goparker.com/post/2018-05-08-github-pages-and-hugo/&lt;/a&gt;) I did not have the capability for people to leave comments.&lt;/p&gt;
 
-&lt;p&gt;This is where Staticman comes in.
-&lt;/p&gt;</description>
+&lt;p&gt;This is where Staticman comes in.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -36,9 +35,7 @@
 
 &lt;p&gt;In a recent post about blogging and CSBlogs (&lt;a href=&#34;http://goparker.com/post/2018-04-23-csblogs-and-blogging/&#34;&gt;http://goparker.com/post/2018-04-23-csblogs-and-blogging/&lt;/a&gt;) I mentioned that I have been playing around with using the static site generation tool Hugo (&lt;a href=&#34;https://gohugo.io/&#34;&gt;https://gohugo.io/&lt;/a&gt;) with GitHub Pages (&lt;a href=&#34;https://pages.github.com/&#34;&gt;https://pages.github.com/&lt;/a&gt;) as a means of hosting various websites at no cost.&lt;/p&gt;
 
-&lt;p&gt;Here I explain how it is done.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;Here I explain how it is done.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -49,9 +46,7 @@
       <guid>https://goparker.com/post/2018-04-23-csblogs-and-blogging/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180423_jenny.jpg&#34; alt=&#34;alt text&#34; title=&#34;Who&#39;s a pretty tabby tiger?&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This is a post to proselytise the virtues of blogging with respect to getting your first job (and possibly ones to follow). I also want to reintroduce CSBlogs  &lt;a href=&#34;http://csblogs.com/&#34;&gt;http://csblogs.com/&lt;/a&gt; to the Hull Computer Science students. More on both below. The picture is unrelated but begs the question, Who&amp;rsquo;s a pretty tabby tiger?&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;This is a post to proselytise the virtues of blogging with respect to getting your first job (and possibly ones to follow). I also want to reintroduce CSBlogs  &lt;a href=&#34;http://csblogs.com/&#34;&gt;http://csblogs.com/&lt;/a&gt; to the Hull Computer Science students. More on both below. The picture is unrelated but begs the question, Who&amp;rsquo;s a pretty tabby tiger?&lt;/p&gt;</description>
     </item>
     
   </channel>

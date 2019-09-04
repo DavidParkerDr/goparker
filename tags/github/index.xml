@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Github on goParker</title>
+    <title>github on goParker</title>
     <link>https://goparker.com/tags/github/</link>
-    <description>Recent content in Github on goParker</description>
+    <description>Recent content in github on goParker</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 08 May 2018 00:00:00 +0000</lastBuildDate>
     
@@ -20,9 +20,7 @@
 
 &lt;p&gt;In a recent post about blogging and CSBlogs (&lt;a href=&#34;http://goparker.com/post/2018-04-23-csblogs-and-blogging/&#34;&gt;http://goparker.com/post/2018-04-23-csblogs-and-blogging/&lt;/a&gt;) I mentioned that I have been playing around with using the static site generation tool Hugo (&lt;a href=&#34;https://gohugo.io/&#34;&gt;https://gohugo.io/&lt;/a&gt;) with GitHub Pages (&lt;a href=&#34;https://pages.github.com/&#34;&gt;https://pages.github.com/&lt;/a&gt;) as a means of hosting various websites at no cost.&lt;/p&gt;
 
-&lt;p&gt;Here I explain how it is done.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;Here I explain how it is done.&lt;/p&gt;</description>
     </item>
     
   </channel>

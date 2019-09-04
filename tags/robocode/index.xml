@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robocode on goParker</title>
+    <title>robocode on goParker</title>
     <link>https://goparker.com/tags/robocode/</link>
-    <description>Recent content in Robocode on goParker</description>
+    <description>Recent content in robocode on goParker</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
     
@@ -20,9 +20,7 @@
 
 &lt;p&gt;During induction week this year I put together a lab activity based around Robocode (&lt;a href=&#34;https://robocode.sourceforge.io/&#34;&gt;https://robocode.sourceforge.io/&lt;/a&gt;). The students were introduced to it on Wednesday afternoon and had lab slots during Thursday to further refine their creations.&lt;/p&gt;
 
-&lt;p&gt;Today we got to find out how they all did in an epic showdown.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;Today we got to find out how they all did in an epic showdown.&lt;/p&gt;</description>
     </item>
     
   </channel>
