@@ -5,10 +5,37 @@
     <link>https://goparker.com/tags/</link>
     <description>Recent content in Tags on goParker</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 04 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://goparker.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>games</title>
+      <link>https://goparker.com/tags/games/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://goparker.com/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>induction week</title>
+      <link>https://goparker.com/tags/induction-week/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://goparker.com/tags/induction-week/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>university</title>
+      <link>https://goparker.com/tags/university/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://goparker.com/tags/university/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>3d printer</title>
@@ -65,15 +92,6 @@
     </item>
     
     <item>
-      <title>university</title>
-      <link>https://goparker.com/tags/university/</link>
-      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://goparker.com/tags/university/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>visit</title>
       <link>https://goparker.com/tags/visit/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://goparker.com/tags/video/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>games</title>
-      <link>https://goparker.com/tags/games/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://goparker.com/tags/games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>induction week</title>
-      <link>https://goparker.com/tags/induction-week/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://goparker.com/tags/induction-week/</guid>
       <description></description>
     </item>
     
@@ -218,7 +218,7 @@
     </item>
     
     <item>
-      <title>monogame</title>
+      <title>Monogame</title>
       <link>https://goparker.com/tags/monogame/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
@@ -227,7 +227,7 @@
     </item>
     
     <item>
-      <title>spooky elephant</title>
+      <title>Spooky Elephant</title>
       <link>https://goparker.com/tags/spooky-elephant/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
