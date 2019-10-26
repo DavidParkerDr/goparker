@@ -1,0 +1,8 @@
+{
+  "name": "Tractor Front",
+  "PictureSet":[
+    "tractor1", 
+    "tractor2"
+  ],
+  "layout":"layout.json"
+}
