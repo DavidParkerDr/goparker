@@ -4,8 +4,38 @@
   
   <url>
     <loc>https://goparker.com/</loc>
-    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://goparker.com/tags/competition/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goparker.com/post/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goparker.com/tags/programming/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goparker.com/tags/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goparker.com/post/2019-11-25-ukiepc-2019/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goparker.com/tags/university/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -20,21 +50,6 @@
   
   <url>
     <loc>https://goparker.com/tags/induction-week/</loc>
-    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://goparker.com/post/</loc>
-    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://goparker.com/tags/</loc>
-    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://goparker.com/tags/university/</loc>
     <lastmod>2019-09-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -86,16 +101,6 @@
   <url>
     <loc>https://goparker.com/tags/visit/</loc>
     <lastmod>2018-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://goparker.com/tags/competition/</loc>
-    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://goparker.com/tags/programming/</loc>
-    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
