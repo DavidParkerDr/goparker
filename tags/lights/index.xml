@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lights on goParker</title>
+    <link>https://goparker.com/tags/lights/</link>
+    <description>Recent content in lights on goParker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 15 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://goparker.com/tags/lights/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Smart Switch</title>
+      <link>https://goparker.com/post/2018-12-15-smart-switch/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://goparker.com/post/2018-12-15-smart-switch/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/181215_prototype_switch.png&#34; alt=&#34;alt text&#34; title=&#34;Prototype smart switch&#34;&gt;
+&lt;!-- raw HTML omitted --&gt;
+I quite like gadgets. So it should come as little surprise that I have been drawn by the bright future promised by smart bulbs. By their nature, in order to retain access to their smart functionality they need to be &amp;lsquo;on&amp;rsquo; even if they are not shining. This presents a problem when faced with several decades of habit of flicking the power switch when you walk in to and out of a room.&lt;/p&gt;
+&lt;p&gt;Being &amp;lsquo;smart&amp;rsquo; you can voice control them using Alexa, but that has some faintly annoying lag and that is even if she understands you the first time. Plus, shouting &amp;ldquo;you damn well know what I meant, Alexa!&amp;rdquo; to turn off the bedside light can be disruptive to one&amp;rsquo;s sleeping partner.&lt;/p&gt;
+&lt;p&gt;So this is about the start of my quest to find another way.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

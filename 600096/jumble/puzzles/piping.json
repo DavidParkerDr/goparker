@@ -1,0 +1,8 @@
+{
+  "name": "Piping Hot",
+  "PictureSet":[
+    "pipes1", 
+	"pipes2"
+  ],
+  "layout":"layout.json"
+}

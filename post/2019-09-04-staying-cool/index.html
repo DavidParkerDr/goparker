@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Staying Cool - goParker</title>
+  <meta name="description" content="
+
+A little while ago I was designing and printing an update to my printer to allow it to use one less motor for controlling the z-axis. The basic printer design uses two lead screws to raise and lower the x-axis. It still does, but now it only uses one motor to control both screws instead of the original two. But that is not what this post is about. Instead it is about staying cool under circumstances to drive one mad.">
+  <meta name="author" content="David Parker"/><script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "goParker",
+    
+    "url": "https:\/\/goparker.com\/"
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "",
+  "url": "https:\/\/goparker.com\/"
+  
+  
+  
+  
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/goparker.com\/",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/goparker.com\/post\/2019-09-04-staying-cool\/",
+          "name": "Staying cool"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : "David Parker"
+  },
+  "headline": "Staying Cool",
+  "description" : "A little while ago I was designing and printing an update to my printer to allow it to use one less motor for controlling the z-axis. The basic printer design uses two lead screws to raise and lower the x-axis. It still does, but now it only uses one motor to control both screws instead of the original two. But that is not what this post is about. Instead it is about staying cool under circumstances to drive one mad.\n",
+  "inLanguage" : "en",
+  "wordCount":  600 ,
+  "datePublished" : "2019-09-04T00:00:00",
+  "dateModified" : "2019-09-04T00:00:00",
+  "image" : "https:\/\/goparker.com\/img\/avatar-icon.png",
+  "keywords" : [ "3d printer, underextrusion" ],
+  "mainEntityOfPage" : "https:\/\/goparker.com\/post\/2019-09-04-staying-cool\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/goparker.com\/",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/goparker.com\/img\/avatar-icon.png",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
+
+<meta property="og:title" content="Staying Cool" />
+<meta property="og:description" content="
+
+A little while ago I was designing and printing an update to my printer to allow it to use one less motor for controlling the z-axis. The basic printer design uses two lead screws to raise and lower the x-axis. It still does, but now it only uses one motor to control both screws instead of the original two. But that is not what this post is about. Instead it is about staying cool under circumstances to drive one mad.">
+<meta property="og:image" content="https://goparker.com/img/avatar-icon.png" />
+<meta property="og:url" content="https://goparker.com/post/2019-09-04-staying-cool/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="goParker" />
+
+  <meta name="twitter:title" content="Staying Cool" />
+  <meta name="twitter:description" content="
+
+A little while ago I was designing and printing an update to my printer to allow it to use one less motor for controlling the z-axis. The basic printer design uses two lead screws to raise and lower …&lt;/!--&gt;">
+  <meta name="twitter:image" content="https://goparker.com/img/avatar-icon.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@davidparkerdr" />
+  <meta name="twitter:creator" content="@davidparkerdr" />
+  <link href='https://goparker.com/img/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta name="generator" content="Hugo 0.74.3" />
+  <link rel="alternate" href="https://goparker.com/index.xml" type="application/rss+xml" title="goParker"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://goparker.com/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" /><link rel="stylesheet" href="https://goparker.com/css/syntax.css" /><link rel="stylesheet" href="https://goparker.com/css/codeblock.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
+<link rel="stylesheet" href="https://goparker.com/css/staticman.css" />
+
+
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://goparker.com/">goParker</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li>
+              <a title="About" href="/page/about">About</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Blog" href="/post">Blog</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Tags" href="/tags">Tags</a>
+            </li>
+          
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    
+      <div class="avatar-container">
+        <div class="avatar-img-border">
+          <a title="goParker" href="https://goparker.com/">
+            <img class="avatar-img" src="https://goparker.com/img/avatar-icon.png" alt="goParker" />
+          </a>
+        </div>
+      </div>
+    
+
+  </div>
+</nav>
+
+
+
+
+    
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+
+  
+  
+  
+
+
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="post-heading">
+              
+                <h1>Staying Cool</h1>
+              
+              
+              
+              
+                <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;Posted on September 4, 2019
+  
+  
+    &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;3&nbsp;minutes
+  
+  
+  
+    
+      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;David Parker
+    
+  
+  
+</span>
+
+
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <p><img src="/img/post_images/190904_going_badly.png" alt="alt text" title="Going badly">
+<!-- raw HTML omitted -->
+A little while ago I was designing and printing an update to my printer to allow it to use one less motor for controlling the z-axis. The basic printer design uses two lead screws to raise and lower the x-axis. It still does, but now it only uses one motor to control both screws instead of the original two. But that is not what this post is about. Instead it is about staying cool under circumstances to drive one mad.</p>
+<p>A better start would be that I was designing and <em>trying</em> to print&hellip; I just couldn&rsquo;t figure out why the print was failing. It was producing a gorgeous first layer, but then after some indeterminant period of time on this multi hour print it would just fail. First with underextrusion, then with a full on clog.</p>
+<p>I tried atomic pulls, which would allow me to unblock the nozzle and immediately start printing again, only to watch with increasing frustration as it failed again later. One particular source of annoyance was that it was seemingly random. Sometimes the symptoms appeared early, and sometimes it would be hours in.</p>
+<p>It turned out that the issue that I was facing was cooling related. Apparently at some point, that I hadn&rsquo;t noticed before, the wire connecting to the little 30mm fan cooling the heatsink of the hotend had broken off. That meant that the heatsink was not being actively cooled so that heat could travel up the heatbreak. The consequence of this was that the usually rigid filament would become a little like cooked spaghetti (which is famously difficult to push) and would deform and compress in the hotend making it harder (underextrusion) and then impossible (clogged) to extrude. The time taken to fail was variable based on loads of factors like how long a gap it had to cool before trying to print again.</p>
+<p>Annoyingly the wire had broken exactly where it met the fan circuit board which was inaccessible. Luckily I had an older fan from a previous incarnation of the printer so I swapped it out and resumed printing.</p>
+<p>Fast-forward a few months and I am trying to print out some high-resolution models. Things are&hellip; not going well. It being a while since the previous issues had happened I had forgotten all about it and was repeating the frustrating atomic pull rituals in an attempt to get the print to complete properly. The same symptoms as before with seemingly random print fails following underextrusion and then nozzle clogs.</p>
+<p>The fan was still running. So it wasn&rsquo;t exactly the same as before. I thought that I found the issue (almost certainly also an issue) when I noticed that the heatbreak piece was loose in the heatsink. This would cause an improper thermal connection and reduce the ability of the heatsink to conduct away the heat. After tightening it, the problem seemed a little less, but I was still getting poor results from the print.</p>
+<p>After doing a little reading around I began to wonder if the fan that I replaced the broken one with was just a little pathetic and had insufficient puff. So I ordered a &lsquo;proper&rsquo; replacement from the suppliers of the hotend as I really wanted to make sure.</p>
+<p>Lo and behold, full beautiful service is resumed.</p>
+<p><img src="/img/post_images/190904_much_better.png" alt="alt text" title="Much better"></p>
+<p>So for my own future reference, if you are getting random underextrusion and then nozzle clogs, please check:</p>
+<ul>
+<li>The heatsink fan is running</li>
+<li>The heatbreak is not loose in the heatsink</li>
+<li>The fan has enough CFM puff (you haven&rsquo;t replaced it with one that doesn&rsquo;t)</li>
+<li>The heatsink is not covered in dust</li>
+</ul>
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://goparker.com/post/2018-12-15-smart-switch/" data-toggle="tooltip" data-placement="top" title="Smart Switch">&larr; Previous Post</a>
+            </li>
+          
+          
+            <li class="next">
+              <a href="https://goparker.com/post/2019-09-21-festival-of-daring-and-excitement/" data-toggle="tooltip" data-placement="top" title="Festival of Daring and Excitement 2019">Next Post &rarr;</a>
+            </li>
+          
+        </ul>
+      
+
+
+      
+        
+        
+          <section class="post-comments">
+
+  
+  
+  
+    
+  
+
+  
+    
+    
+      <h3>No comment</h3>
+    
+  
+    
+    
+  
+
+  <section class="comment_form">
+  
+  
+  
+    
+  
+
+  <a id="comment-form"></a>
+  <h3>Say something</h3>
+
+  <form class="js-form form" method="POST" action="https://api.staticman.net/v2/entry/DavidParkerDr/goparker/source/comments">
+    <input type="hidden" name="options[redirect]" value="https://goparker.com/post/2019-09-04-staying-cool/#post-submitted">
+    <input type="hidden" name="options[redirectError]" value="https://goparker.com/post/2019-09-04-staying-cool/#post-error">
+    <input type="hidden" name="options[entryId]" value="2019-09-04-staying-cool">
+    <input type="hidden" name="options[slug]" value="https://goparker.com/post/2019-09-04-staying-cool/">
+    <input type="hidden" name="options[origin]" value="https://goparker.com/post/2019-09-04-staying-cool/">
+    <input type="hidden" name="options[parent]" value="2019-09-04-staying-cool">
+    <input type="hidden" name="fields[reply_to]" value="">
+    <input type="hidden" name="options[reCaptcha][siteKey]" value="6LciilsUAAAAAJFGp-Bnlh13W80eAtCoUJnGMeuq">
+    <input type="hidden" name="options[reCaptcha][secret]" value="6LciilsUAAAAALuklAhLdtYdtrCBxUaEZg7dLkWI">
+
+    <fieldset>
+      <input name="fields[name]" type="text" class="post-comment-field" placeholder="Your name">
+    </fieldset>
+
+    <fieldset>
+      <input name="fields[email]" type="email" class="post-comment-field" placeholder="Your email address">
+    </fieldset>
+
+    <fieldset>
+      <textarea name="fields[body]" class="post-comment-field" placeholder="You can use Markdown syntax" rows="10"></textarea>
+    </fieldset>
+    
+    
+
+    <fieldset>
+      <div class="g-recaptcha" data-sitekey="6LciilsUAAAAAJFGp-Bnlh13W80eAtCoUJnGMeuq" data-callback="enableBtn"></div>
+
+      <input type="submit" class="post-comment-field btn" value="Submit" id="submit_button">
+    </fieldset>
+
+  </form>
+
+  <script async src='https://www.google.com/recaptcha/api.js' ></script>
+
+
+  <script type="text/javascript">
+    document.getElementById("submit_button").disabled = true;
+  </script>
+  
+  <script type="text/javascript">
+    function enableBtn(){
+       document.getElementById("submit_button").disabled = false;
+      }
+  </script>
+
+  <div id="post-submitted" class="dialog">
+    <h3>Thank you</h3>
+    <p>Your post has been submitted and will be published once it has been approved.</p>
+    
+    <p><a href="#" class="btn">OK</a></p>
+  </div>
+
+  <div id="post-error" class="dialog">
+    <h3>OOPS!</h3>
+    <p>Your post has not been submitted.  Please return to the page and try again.  Thank You!</p>
+    <p><a href="#" class="btn">OK</a></p>
+  </div> 
+
+</section>
+
+</section>
+        
+      
+
+      <br>
+      
+      
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+              <li>
+                <a href="https://github.com/davidparkerdr" title="GitHub">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fab fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/davidparkerdr" title="Twitter">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fab fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://linkedin.com/in/davidparkerdr" title="LinkedIn">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/user/DavidParkerDr" title="Youtube">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fab fa-youtube fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+          
+          <li>
+            
+            <a href="https://goparker.com/index.xml" title="RSS">
+            
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+            
+              <a href="https://goparker.com">David Parker</a>
+            
+          
+
+          &nbsp;&bull;&nbsp;
+          2020
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="https://goparker.com/">goParker</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="https://gohugo.io">Hugo v0.74.3</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js" integrity="sha384-/y1Nn9+QQAipbNQWU65krzJralCnuOasHncUFXGkdwntGeSvQicrYkiUBwsgUqc1" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://goparker.com/js/main.js" integrity="sha384-bffXJVacN5awc65ZqPQ08t7WRWGZlPfMg2jnqaGjH5J4tXTiPdq4TEwp+8128yzJ" crossorigin="anonymous"></script><script> renderMathInElement(document.body); </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script>
+<script src="https://goparker.com/js/load-photoswipe.js" integrity="sha384-uAfRKQI9hKItmKIfT8m94IAso2Sjusq+Orgkaa8A/HgLWAu02/IHNLQxgRCFfS84" crossorigin="anonymous"></script>
+
+
+
+
+
+<script src="https://goparker.com/js/custom.js" crossorigin="anonymous"></script>
+
+    
+  </body>
+</html>
+

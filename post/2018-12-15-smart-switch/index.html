@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Smart Switch - goParker</title>
+  <meta name="description" content="
+
+I quite like gadgets. So it should come as little surprise that I have been drawn by the bright future promised by smart bulbs. By their nature, in order to retain access to their smart functionality they need to be &lsquo;on&rsquo; even if they are not shining. This presents a problem when faced with several decades of habit of flicking the power switch when you walk in to and out of a room.
+Being &lsquo;smart&rsquo; you can voice control them using Alexa, but that has some faintly annoying lag and that is even if she understands you the first time. Plus, shouting &ldquo;you damn well know what I meant, Alexa!&rdquo; to turn off the bedside light can be disruptive to one&rsquo;s sleeping partner.
+So this is about the start of my quest to find another way.">
+  <meta name="author" content="David Parker"/><script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "goParker",
+    
+    "url": "https:\/\/goparker.com\/"
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "",
+  "url": "https:\/\/goparker.com\/"
+  
+  
+  
+  
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/goparker.com\/",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/goparker.com\/post\/2018-12-15-smart-switch\/",
+          "name": "Smart switch"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : "David Parker"
+  },
+  "headline": "Smart Switch",
+  "description" : "I quite like gadgets. So it should come as little surprise that I have been drawn by the bright future promised by smart bulbs. By their nature, in order to retain access to their smart functionality they need to be \u0026lsquo;on\u0026rsquo; even if they are not shining. This presents a problem when faced with several decades of habit of flicking the power switch when you walk in to and out of a room.\nBeing \u0026lsquo;smart\u0026rsquo; you can voice control them using Alexa, but that has some faintly annoying lag and that is even if she understands you the first time. Plus, shouting \u0026ldquo;you damn well know what I meant, Alexa!\u0026rdquo; to turn off the bedside light can be disruptive to one\u0026rsquo;s sleeping partner.\nSo this is about the start of my quest to find another way.\n",
+  "inLanguage" : "en",
+  "wordCount":  1356 ,
+  "datePublished" : "2018-12-15T00:00:00",
+  "dateModified" : "2018-12-15T00:00:00",
+  "image" : "https:\/\/goparker.com\/img\/avatar-icon.png",
+  "keywords" : [ "lifx, smart, lights" ],
+  "mainEntityOfPage" : "https:\/\/goparker.com\/post\/2018-12-15-smart-switch\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/goparker.com\/",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/goparker.com\/img\/avatar-icon.png",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
+
+<meta property="og:title" content="Smart Switch" />
+<meta property="og:description" content="
+
+I quite like gadgets. So it should come as little surprise that I have been drawn by the bright future promised by smart bulbs. By their nature, in order to retain access to their smart functionality they need to be &lsquo;on&rsquo; even if they are not shining. This presents a problem when faced with several decades of habit of flicking the power switch when you walk in to and out of a room.
+Being &lsquo;smart&rsquo; you can voice control them using Alexa, but that has some faintly annoying lag and that is even if she understands you the first time. Plus, shouting &ldquo;you damn well know what I meant, Alexa!&rdquo; to turn off the bedside light can be disruptive to one&rsquo;s sleeping partner.
+So this is about the start of my quest to find another way.">
+<meta property="og:image" content="https://goparker.com/img/avatar-icon.png" />
+<meta property="og:url" content="https://goparker.com/post/2018-12-15-smart-switch/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="goParker" />
+
+  <meta name="twitter:title" content="Smart Switch" />
+  <meta name="twitter:description" content="
+
+I quite like gadgets. So it should come as little surprise that I have been drawn by the bright future promised by smart bulbs. By their nature, in order to retain access to their smart …&lt;/!--&gt;">
+  <meta name="twitter:image" content="https://goparker.com/img/avatar-icon.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@davidparkerdr" />
+  <meta name="twitter:creator" content="@davidparkerdr" />
+  <link href='https://goparker.com/img/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta name="generator" content="Hugo 0.74.3" />
+  <link rel="alternate" href="https://goparker.com/index.xml" type="application/rss+xml" title="goParker"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://goparker.com/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" /><link rel="stylesheet" href="https://goparker.com/css/syntax.css" /><link rel="stylesheet" href="https://goparker.com/css/codeblock.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
+<link rel="stylesheet" href="https://goparker.com/css/staticman.css" />
+
+
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://goparker.com/">goParker</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li>
+              <a title="About" href="/page/about">About</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Blog" href="/post">Blog</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Tags" href="/tags">Tags</a>
+            </li>
+          
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    
+      <div class="avatar-container">
+        <div class="avatar-img-border">
+          <a title="goParker" href="https://goparker.com/">
+            <img class="avatar-img" src="https://goparker.com/img/avatar-icon.png" alt="goParker" />
+          </a>
+        </div>
+      </div>
+    
+
+  </div>
+</nav>
+
+
+
+
+    
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+
+  
+  
+  
+
+
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="post-heading">
+              
+                <h1>Smart Switch</h1>
+              
+              
+              
+              
+                <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;Posted on December 15, 2018
+  
+  
+    &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;7&nbsp;minutes
+  
+  
+  
+    
+      &nbsp;|&nbsp;<i class="fas fa-user"></i>&nbsp;David Parker
+    
+  
+  
+</span>
+
+
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <p><img src="/img/post_images/181215_prototype_switch.png" alt="alt text" title="Prototype smart switch">
+<!-- raw HTML omitted -->
+I quite like gadgets. So it should come as little surprise that I have been drawn by the bright future promised by smart bulbs. By their nature, in order to retain access to their smart functionality they need to be &lsquo;on&rsquo; even if they are not shining. This presents a problem when faced with several decades of habit of flicking the power switch when you walk in to and out of a room.</p>
+<p>Being &lsquo;smart&rsquo; you can voice control them using Alexa, but that has some faintly annoying lag and that is even if she understands you the first time. Plus, shouting &ldquo;you damn well know what I meant, Alexa!&rdquo; to turn off the bedside light can be disruptive to one&rsquo;s sleeping partner.</p>
+<p>So this is about the start of my quest to find another way.</p>
+<p>The smart bulb ecosystem that we have bought in to is LIFX (<a href="https://uk.lifx.com/">https://uk.lifx.com/</a>) which I am not entirely sure how you are supposed to pronounce. Is it &ldquo;life-ex&rdquo; or is it &ldquo;lie eff ex&rdquo;? Anyway, I chose these over the main smart bulb incumbant (Philips HUE) as they reportedly have better colour reproduction from their RGB LEDs and the bulbs are brighter.</p>
+<p>Unlike the HUE bulbs, which use a zigbee mesh network, the LIFX bulbs all connect to your WIFI and they are individually addressable using their IP and MAC address. They have an app that you can do all sorts of fun things with, like set schedules and colour schemes. One of the schedules that I have set up is to mimic the sun&rsquo;s cycle. That means that over the course of the afternoon they get a redder tint and then start dimming around bed time. The idea is that is good for sleep &lsquo;hygiene&rsquo; by removing bright blue lights from the equation. In the morning the reverse happens, with a dim blueish light coming on and then ramping up the brightness over about half an hour. This, in combination with a fairly regular wake up routine means that I generally don&rsquo;t set a brash alarm as I like the &lsquo;sunrise&rsquo; gently bring me to conciousness.</p>
+<p>This brings us to the main problem. The funky scheduling requires that the bulbs are powered on in order to have the scheduled instructions delivered to them. So they can&rsquo;t be switched off at the main wall switch. The problem is mitigated a little by the liberally sprinkled Echos around the house, but there are issues there that I mentioned earlier, plus it can be awkward where groupings of lights are concerned.</p>
+<p>What I need is a button of some kind that I can &lsquo;pair&rsquo; with the bulbs and can toggle the shining or not shining state so that they come on at whatever setting the schedule stipulates.</p>
+<p>Unfortunately there isn&rsquo;t any first party offerings for the LIFX ecosystem (unlike the HUE which has lots). There are some third party offerings such as the FLIC (<a href="https://flic.io/">https://flic.io/</a>) or the Logitech POP (<a href="https://www.logitech.com/en-gb/product/pop-smart-button),">https://www.logitech.com/en-gb/product/pop-smart-button),</a> but the reviews of these suggest some annoying problems of their own such as lag or the need to pair with your phone. The final nail in their coffin however is the cost with the POP for example costing around £35 for a switch! Albeit at full price.</p>
+<p>So that brings us to the tangle of wires that is shown in the picture above. Having played around with the PixelBots (<a href="https://goparker.com/post/2018-06-28-smilers-mate/">https://goparker.com/post/2018-06-28-smilers-mate/</a>) a bit, I have built up some confidence with Arduino type projects. The combination of soldering and programming is quite fun, and having a real problem to solve can be quite motivating. Thus it was that I started a Google campaign to see what other people had tried in this area.</p>
+<p>I knew that the ESP 8266 was a little programmable WIFI enabled board that could be programmed using the Arduino IDE as Rob had been using it to make his PixelBots talk to the internet (<a href="https://www.robmiles.com/journal/2016/11/29/esp8266)">https://www.robmiles.com/journal/2016/11/29/esp8266)</a>.</p>
+<p>Then I can across this (<a href="https://www.instructables.com/id/Tiny-ESP8266-Dash-Button-Re-Configurable/">https://www.instructables.com/id/Tiny-ESP8266-Dash-Button-Re-Configurable/</a>) which is a project that uses an ESP 01 (a teeny tiny 8226 board) to provide Amazon Dash button like functionality. Basically you can press the button and trigger a web based action such as through If This Then That (<a href="https://ifttt.com/)">https://ifttt.com/)</a>. I am using this as the basis for my own button. The project is quite neat in that it has a configuration mode and a normal mode.</p>
+<p>In the configuration mode you can connect directly to the button as a WIFI access point and then navigate to its little embedded web server and use the html form to enter the details you need such as your WIFI&rsquo;s SSID and password so that I can become part of your network.</p>
+<p>Then you can switch to normal mode. In normal mode the board will sit in deep sleep (using little power) until you press the button. Then it will wake up, connect to your WIFI and then sent the web post. In the case of my test I sent a message to IFTTT which triggered a tweet.</p>
+<p>I could use the IFTTT method to control the lights too, but one of the things that I want to keep to a minimum is reliance on of server infrastructure (what happens if the go bust?) and internet round trips which introduce lag. LIFX have a LAN protocol (<a href="https://lan.developer.lifx.com/">https://lan.developer.lifx.com/</a>) which allows you to communicate directly with the lights over your home network which deals with both the lag issue and the reliance on third parties.</p>
+<p>You may notice that the documentation at that site is&hellip; not for the faint of heart. That is not to say that it is poorly documented, just that it requires a level of expertise that I wouldn&rsquo;t describe as beginner level exactly. So I returned to Google to see if I could find some examples that would help me.</p>
+<p>And I did (<a href="https://community.lifx.com/t/sending-lan-packet-using-arduino/1460/4)">https://community.lifx.com/t/sending-lan-packet-using-arduino/1460/4)</a>. This example included some code for an Arduino to talk to a LIFX bulb and find out whether it was on or off. I combined it with the other project for the button and modifed the code to allow me to toggle the on/off status of the targetted light.</p>
+<p>And it works!</p>
+<p>At the moment my prototype is hardcoded up the wazzoo so it only turns on and off my desk light and targetting another light involves recompiling and reflashing the button. This is not ideal. There is also some lag in pressing the button and the light toggling; around 2 seconds worth which is also a little on the long side. I am hoping that part of the lag may be caused by the liberal sprinkling of Serial.println that I included when I was trying to figure out what was going on. It may be unavoidable however as there is a small delay as the device wakes up and connects to the network. There is likely also a delay as the button first asks what the state of the bulb is, and then acts based on the result. This involves waiting for the bulb to respond to the first request.</p>
+<p>So the next step for the button project is to integrate the configurable part of the Dash button project so that I can have the button enter &lsquo;configuration&rsquo; mode setup the WIFI and give the MAC address of the light that I want to control. Ideally this would allow me to specify multiply bulbs as my kitchen, for example, has multiple downlights and I don&rsquo;t want to have to switch them off individually. If I can also but down the lag that would be great.</p>
+<p>After that, when the code is stable and complete for what I want it to do, I will have a look at turning the bundle of wires in to a more compact and neat package. Then I can design and print a case for it that can be placed in the various locations in the house. In terms of the electronic bits and bobs you are looking at around £5 per switch which is more palatable than the £35 for the &lsquo;proper&rsquo; one.</p>
+<p>When I reach that stage, I will share all the parts lists and code etc.</p>
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://goparker.com/post/2018-11-30-studio-gobo/" data-toggle="tooltip" data-placement="top" title="Studio Gobo and Electric Square talk">&larr; Previous Post</a>
+            </li>
+          
+          
+            <li class="next">
+              <a href="https://goparker.com/post/2019-09-04-staying-cool/" data-toggle="tooltip" data-placement="top" title="Staying Cool">Next Post &rarr;</a>
+            </li>
+          
+        </ul>
+      
+
+
+      
+        
+        
+          <section class="post-comments">
+
+  
+  
+  
+    
+  
+
+  
+    
+    
+      <h3>No comment</h3>
+    
+  
+    
+    
+  
+
+  <section class="comment_form">
+  
+  
+  
+    
+  
+
+  <a id="comment-form"></a>
+  <h3>Say something</h3>
+
+  <form class="js-form form" method="POST" action="https://api.staticman.net/v2/entry/DavidParkerDr/goparker/source/comments">
+    <input type="hidden" name="options[redirect]" value="https://goparker.com/post/2018-12-15-smart-switch/#post-submitted">
+    <input type="hidden" name="options[redirectError]" value="https://goparker.com/post/2018-12-15-smart-switch/#post-error">
+    <input type="hidden" name="options[entryId]" value="2018-12-15-smart-switch">
+    <input type="hidden" name="options[slug]" value="https://goparker.com/post/2018-12-15-smart-switch/">
+    <input type="hidden" name="options[origin]" value="https://goparker.com/post/2018-12-15-smart-switch/">
+    <input type="hidden" name="options[parent]" value="2018-12-15-smart-switch">
+    <input type="hidden" name="fields[reply_to]" value="">
+    <input type="hidden" name="options[reCaptcha][siteKey]" value="6LciilsUAAAAAJFGp-Bnlh13W80eAtCoUJnGMeuq">
+    <input type="hidden" name="options[reCaptcha][secret]" value="6LciilsUAAAAALuklAhLdtYdtrCBxUaEZg7dLkWI">
+
+    <fieldset>
+      <input name="fields[name]" type="text" class="post-comment-field" placeholder="Your name">
+    </fieldset>
+
+    <fieldset>
+      <input name="fields[email]" type="email" class="post-comment-field" placeholder="Your email address">
+    </fieldset>
+
+    <fieldset>
+      <textarea name="fields[body]" class="post-comment-field" placeholder="You can use Markdown syntax" rows="10"></textarea>
+    </fieldset>
+    
+    
+
+    <fieldset>
+      <div class="g-recaptcha" data-sitekey="6LciilsUAAAAAJFGp-Bnlh13W80eAtCoUJnGMeuq" data-callback="enableBtn"></div>
+
+      <input type="submit" class="post-comment-field btn" value="Submit" id="submit_button">
+    </fieldset>
+
+  </form>
+
+  <script async src='https://www.google.com/recaptcha/api.js' ></script>
+
+
+  <script type="text/javascript">
+    document.getElementById("submit_button").disabled = true;
+  </script>
+  
+  <script type="text/javascript">
+    function enableBtn(){
+       document.getElementById("submit_button").disabled = false;
+      }
+  </script>
+
+  <div id="post-submitted" class="dialog">
+    <h3>Thank you</h3>
+    <p>Your post has been submitted and will be published once it has been approved.</p>
+    
+    <p><a href="#" class="btn">OK</a></p>
+  </div>
+
+  <div id="post-error" class="dialog">
+    <h3>OOPS!</h3>
+    <p>Your post has not been submitted.  Please return to the page and try again.  Thank You!</p>
+    <p><a href="#" class="btn">OK</a></p>
+  </div> 
+
+</section>
+
+</section>
+        
+      
+
+      <br>
+      
+      
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+              <li>
+                <a href="https://github.com/davidparkerdr" title="GitHub">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fab fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/davidparkerdr" title="Twitter">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fab fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://linkedin.com/in/davidparkerdr" title="LinkedIn">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/user/DavidParkerDr" title="Youtube">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fab fa-youtube fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+          
+          <li>
+            
+            <a href="https://goparker.com/index.xml" title="RSS">
+            
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+            
+              <a href="https://goparker.com">David Parker</a>
+            
+          
+
+          &nbsp;&bull;&nbsp;
+          2020
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="https://goparker.com/">goParker</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="https://gohugo.io">Hugo v0.74.3</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js" integrity="sha384-/y1Nn9+QQAipbNQWU65krzJralCnuOasHncUFXGkdwntGeSvQicrYkiUBwsgUqc1" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://goparker.com/js/main.js" integrity="sha384-bffXJVacN5awc65ZqPQ08t7WRWGZlPfMg2jnqaGjH5J4tXTiPdq4TEwp+8128yzJ" crossorigin="anonymous"></script><script> renderMathInElement(document.body); </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script>
+<script src="https://goparker.com/js/load-photoswipe.js" integrity="sha384-uAfRKQI9hKItmKIfT8m94IAso2Sjusq+Orgkaa8A/HgLWAu02/IHNLQxgRCFfS84" crossorigin="anonymous"></script>
+
+
+
+
+
+<script src="https://goparker.com/js/custom.js" crossorigin="anonymous"></script>
+
+    
+  </body>
+</html>
+

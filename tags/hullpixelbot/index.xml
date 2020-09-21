@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hullpixelbot on goParker</title>
+    <title>hullpixelbot on goParker</title>
     <link>https://goparker.com/tags/hullpixelbot/</link>
-    <description>Recent content in Hullpixelbot on goParker</description>
+    <description>Recent content in hullpixelbot on goParker</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
     
@@ -16,11 +16,8 @@
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://goparker.com/post/2018-06-28-smilers-mate/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180628_smilers_mate.png&#34; alt=&#34;alt text&#34; title=&#34;Smiler has a boyfriend&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Introducing Butch. Butch is Smiler&amp;rsquo;s new stable mate. Look how happy she is to have some company!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180628_smilers_mate.png&#34; alt=&#34;alt text&#34; title=&#34;Smiler has a boyfriend&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Introducing Butch. Butch is Smiler&amp;rsquo;s new stable mate. Look how happy she is to have some company!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -29,11 +26,8 @@
       <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://goparker.com/post/2018-06-05-resurrection/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180605_resurrection.png&#34; alt=&#34;alt text&#34; title=&#34;Resurrection&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Smiler has been revived and she is now better than ever following the Dead Led debacle (&lt;a href=&#34;http://goparker.com/post/2018-05-29-dead_led/&#34;&gt;http://goparker.com/post/2018-05-29-dead_led/&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180605_resurrection.png&#34; alt=&#34;alt text&#34; title=&#34;Resurrection&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Smiler has been revived and she is now better than ever following the Dead Led debacle (&lt;a href=&#34;http://goparker.com/post/2018-05-29-dead_led/&#34;&gt;http://goparker.com/post/2018-05-29-dead_led/&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -42,11 +36,8 @@
       <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://goparker.com/post/2018-05-29-dead_led/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180529_dead_led.png&#34; alt=&#34;alt text&#34; title=&#34;Dead Led&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This is a little of a public service announcement as I didn&amp;rsquo;t follow the instructions and have now killed my NeoPixel ring leds.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180529_dead_led.png&#34; alt=&#34;alt text&#34; title=&#34;Dead Led&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is a little of a public service announcement as I didn&amp;rsquo;t follow the instructions and have now killed my NeoPixel ring leds.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -65,11 +56,8 @@ I felt that I couldn&amp;rsquo;t just keep calling the PixelBot &amp;ldquo;the P
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://goparker.com/post/2018-05-27-its-alive/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180527_alive.gif&#34; alt=&#34;alt text&#34; title=&#34;It&#39;s Alive!&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The other day I started my HullPixelBot journey (&lt;a href=&#34;http://goparker.com/post/2018-05-25-plastic-parts-printed/&#34;&gt;http://goparker.com/post/2018-05-25-plastic-parts-printed/&lt;/a&gt;) and I have made some progress since then.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180527_alive.gif&#34; alt=&#34;alt text&#34; title=&#34;It&#39;s Alive!&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The other day I started my HullPixelBot journey (&lt;a href=&#34;http://goparker.com/post/2018-05-25-plastic-parts-printed/&#34;&gt;http://goparker.com/post/2018-05-25-plastic-parts-printed/&lt;/a&gt;) and I have made some progress since then.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -78,12 +66,9 @@ I felt that I couldn&amp;rsquo;t just keep calling the PixelBot &amp;ldquo;the P
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://goparker.com/post/2018-05-25-plastic-parts-printed/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180525_all_the_bits.png&#34; alt=&#34;alt text&#34; title=&#34;All the bits&#34; /&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180525_all_the_bits.png&#34; alt=&#34;alt text&#34; title=&#34;All the bits&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I finally decided that I should have a crack at building one of Rob Mile&amp;rsquo;s Hull Pixel Bots (&lt;a href=&#34;http://hullpixelbot.com/&#34;&gt;http://hullpixelbot.com/&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;I have completed the first step by printing out the plastic parts.
-&lt;/p&gt;</description>
+&lt;p&gt;I have completed the first step by printing out the plastic parts.&lt;/p&gt;</description>
     </item>
     
   </channel>

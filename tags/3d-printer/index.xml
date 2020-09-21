@@ -1,14 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3d Printer on goParker</title>
+    <title>3d printer on goParker</title>
     <link>https://goparker.com/tags/3d-printer/</link>
-    <description>Recent content in 3d Printer on goParker</description>
+    <description>Recent content in 3d printer on goParker</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://goparker.com/tags/3d-printer/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3D Printed Maze</title>
+      <link>https://goparker.com/post/2020-09-21-3d-printed-maze/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://goparker.com/post/2020-09-21-3d-printed-maze/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/200921_maze_cube.png&#34; alt=&#34;alt text&#34; title=&#34;A Mazing Cube&#34;&gt;
+&lt;!-- raw HTML omitted --&gt;
+Today I presented a session in our new students induction called &amp;ldquo;Building Your Brand&amp;rdquo; which was broadly about how to develop your profile in a way that supplements everything that you are explicitly learning on your degree programme. In preparing for it I came across something that led me to an interesting diversion.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Staying Cool</title>
+      <link>https://goparker.com/post/2019-09-04-staying-cool/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://goparker.com/post/2019-09-04-staying-cool/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/190904_going_badly.png&#34; alt=&#34;alt text&#34; title=&#34;Going badly&#34;&gt;
+&lt;!-- raw HTML omitted --&gt;
+A little while ago I was designing and printing an update to my printer to allow it to use one less motor for controlling the z-axis. The basic printer design uses two lead screws to raise and lower the x-axis. It still does, but now it only uses one motor to control both screws instead of the original two. But that is not what this post is about. Instead it is about staying cool under circumstances to drive one mad.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>The Printer</title>
@@ -16,13 +38,9 @@
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://goparker.com/post/2018-07-05-the-printer/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180705_my_printer.png&#34; alt=&#34;alt text&#34; title=&#34;My 3D Printer&#34; /&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180705_my_printer.png&#34; alt=&#34;alt text&#34; title=&#34;My 3D Printer&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I have mentioned my 3d printer a few times on the blog now and I have been meaning to document the various modifications and the overall journey that I have taken with it.&lt;/p&gt;
-
-&lt;p&gt;So here it is.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;So here it is.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -31,12 +49,9 @@
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://goparker.com/post/2018-05-25-plastic-parts-printed/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180525_all_the_bits.png&#34; alt=&#34;alt text&#34; title=&#34;All the bits&#34; /&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180525_all_the_bits.png&#34; alt=&#34;alt text&#34; title=&#34;All the bits&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I finally decided that I should have a crack at building one of Rob Mile&amp;rsquo;s Hull Pixel Bots (&lt;a href=&#34;http://hullpixelbot.com/&#34;&gt;http://hullpixelbot.com/&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;I have completed the first step by printing out the plastic parts.
-&lt;/p&gt;</description>
+&lt;p&gt;I have completed the first step by printing out the plastic parts.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -45,11 +60,8 @@
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://goparker.com/post/2018-05-15-even_more_ultimate/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180515_kingdomino.png&#34; alt=&#34;alt text&#34; title=&#34;New highscore!&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So yesterday I talked about Kingdomino and what the maximum possible score is in two player 7 x 7 grid mode is (&lt;a href=&#34;http://goparker.com/post/2018-05-14-ultimate-king-domino/&#34;&gt;http://goparker.com/post/2018-05-14-ultimate-king-domino/&lt;/a&gt;). I showed a possible contender (267 points) and asked whether you could do better, throwing down the gauntlet. Well I picked the gauntlet back up again and did better myself.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180515_kingdomino.png&#34; alt=&#34;alt text&#34; title=&#34;New highscore!&#34;&gt;&lt;/p&gt;
+&lt;p&gt;So yesterday I talked about Kingdomino and what the maximum possible score is in two player 7 x 7 grid mode is (&lt;a href=&#34;http://goparker.com/post/2018-05-14-ultimate-king-domino/)&#34;&gt;http://goparker.com/post/2018-05-14-ultimate-king-domino/)&lt;/a&gt;. I showed a possible contender (267 points) and asked whether you could do better, throwing down the gauntlet. Well I picked the gauntlet back up again and did better myself.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -58,13 +70,9 @@
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://goparker.com/post/2018-05-14-ultimate-king-domino/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180514_kingdomino_tiles.png&#34; alt=&#34;alt text&#34; title=&#34;Printed Tiles&#34; /&gt;&lt;/p&gt;
-
+      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/180514_kingdomino_tiles.png&#34; alt=&#34;alt text&#34; title=&#34;Printed Tiles&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Just a few days before last Christmas I began belatedly thinking about what sort of things I could do with my family during the holiday period. A little while ago, one of my buddies had introduced me to Kingdomino (&lt;a href=&#34;https://boardgamegeek.com/boardgame/204583/kingdomino&#34;&gt;https://boardgamegeek.com/boardgame/204583/kingdomino&lt;/a&gt;) which is a fun tile placement game for up to 4 players. It was on &amp;lsquo;the list&amp;rsquo; of games that I had put together after perusing a number of sources on the internet for games that play well with three players. This is because my immediate family unit is made up of me, my wife, and our (currently) 9 year old son.&lt;/p&gt;
-
-&lt;p&gt;I mentioned that I was belatedly thinking about it because I started after even Amazon&amp;rsquo;s Christmas delivery cut off. This might be an obstacle for your average fellow, but armed with my 3D printer I was not deterred.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;I mentioned that I was belatedly thinking about it because I started after even Amazon&amp;rsquo;s Christmas delivery cut off. This might be an obstacle for your average fellow, but armed with my 3D printer I was not deterred.&lt;/p&gt;</description>
     </item>
     
   </channel>
