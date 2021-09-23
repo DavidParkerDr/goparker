@@ -5,10 +5,22 @@
     <link>https://goparker.com/</link>
     <description>Recent content on goParker</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://goparker.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fresh Fish</title>
+      <link>https://goparker.com/post/2021-09-23-fresh-fish/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://goparker.com/post/2021-09-23-fresh-fish/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://goparker.com/img/post_images/210923_masky_welcome.png&#34; alt=&#34;alt text&#34; title=&#34;A Masky Welcome&#34;&gt;
+&lt;!-- raw HTML omitted --&gt;
+This post is a bit of a two for one.&lt;/p&gt;
+&lt;p&gt;Firstly, I thought that I would say hi to all the new students joining us this week at the Department of Computer Science and Technology at the University of Hull.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>3D Printed Maze</title>

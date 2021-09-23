@@ -5,10 +5,37 @@
     <link>https://goparker.com/tags/</link>
     <description>Recent content in Tags on goParker</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://goparker.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>blog</title>
+      <link>https://goparker.com/tags/blog/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://goparker.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freshers</title>
+      <link>https://goparker.com/tags/freshers/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://goparker.com/tags/freshers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>university</title>
+      <link>https://goparker.com/tags/university/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://goparker.com/tags/university/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>3d printer</title>
@@ -16,24 +43,6 @@
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://goparker.com/tags/3d-printer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blog</title>
-      <link>https://goparker.com/tags/blog/</link>
-      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://goparker.com/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>university</title>
-      <link>https://goparker.com/tags/university/</link>
-      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://goparker.com/tags/university/</guid>
       <description></description>
     </item>
     
