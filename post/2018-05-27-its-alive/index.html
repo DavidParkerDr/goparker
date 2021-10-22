@@ -46,7 +46,7 @@ The other day I started my HullPixelBot journey (http://goparker.com/post/2018-0
         "position": 3,
         "item": {
           "@id": "https:\/\/goparker.com\/post\/2018-05-27-its-alive\/",
-          "name": "It\u0027s alive!"
+          "name": "It\u0027S alive!"
         }
     }]
 }
@@ -95,7 +95,7 @@ The other day I started my HullPixelBot journey (http://goparker.com/post/2018-0
   <meta name="twitter:site" content="@davidparkerdr" />
   <meta name="twitter:creator" content="@davidparkerdr" />
   <link href='https://goparker.com/img/favicon.ico' rel='icon' type='image/x-icon'/>
-  <meta name="generator" content="Hugo 0.74.3" />
+  <meta name="generator" content="Hugo 0.88.1" />
   <link rel="alternate" href="https://goparker.com/index.xml" type="application/rss+xml" title="goParker"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://goparker.com/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
@@ -237,7 +237,7 @@ The other day I started my HullPixelBot journey (http://goparker.com/post/2018-0
                 <span class="post-meta">
   
   
-  <i class="fas fa-calendar"></i>&nbsp;Posted on May 27, 2018
+  <i class="fas fa-calendar"></i>&nbsp;
   
   
     &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;7&nbsp;minutes
@@ -276,18 +276,18 @@ The other day I started my HullPixelBot journey (http://goparker.com/post/2018-0
 <p>With the PixelBot lying disembowelled until I can fully assemble it in its chassis, the fine tuning of the motor code was pretty boring. So I skipped it for now and raced on to put on a light show. It uses a 12 pixel rgb NeoPixel ring.</p>
 <p>I installed the NeoPixel library (<a href="https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation">https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation</a>) and started by deploying one of the example sketches. I picked the RGBWstrandtest because it had rgb in the name. I had to make sure that the data pin was set to the right one (zero in my case) and change the number of leds that it was expecting. And what a lovely light show it made. I was pleased because the pixel ring was obviously working. The next step was to start fiddling with the sample code to make sure that I understood what it was doing.</p>
 <p>I started by trying to get a particular pixel to light up.</p>
-<div class="highlight"><pre class="chroma"><code class="language-cpp" data-lang="cpp"><span class="n">strip</span><span class="p">.</span><span class="n">setPixelColor</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">strip</span><span class="p">.</span><span class="n">Color</span><span class="p">(</span><span class="mi">255</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">));</span>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-cpp" data-lang="cpp"><span class="n">strip</span><span class="p">.</span><span class="n">setPixelColor</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">strip</span><span class="p">.</span><span class="n">Color</span><span class="p">(</span><span class="mi">255</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">));</span>
 </code></pre></div><p>Perfect. The pixel that I expected to be at index 0 (the first parameter of setPixelColor) lit up red (the colour that I expected from RGB(255, 0, 0), RGB(red, green, blue)). So let&rsquo;s try the next pixel over by increasing the index by one.</p>
-<div class="highlight"><pre class="chroma"><code class="language-cpp" data-lang="cpp"><span class="n">strip</span><span class="p">.</span><span class="n">setPixelColor</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="n">strip</span><span class="p">.</span><span class="n">Color</span><span class="p">(</span><span class="mi">255</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">));</span>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-cpp" data-lang="cpp"><span class="n">strip</span><span class="p">.</span><span class="n">setPixelColor</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="n">strip</span><span class="p">.</span><span class="n">Color</span><span class="p">(</span><span class="mi">255</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">));</span>
 </code></pre></div><p>Wat? The next pixel over is lit up (Hooray!) but it is blue (Haroo&hellip;). Turns out it was a pretty simple mistake.</p>
 <p>When you declare your NeoPixel strip (in my case it is a ring, but I haven&rsquo;t renamed the variable yet) you specify the encoding that you will be using to communicate with the pixels.</p>
-<div class="highlight"><pre class="chroma"><code class="language-cpp" data-lang="cpp"><span class="n">Adafruit_NeoPixel</span> <span class="n">strip</span> <span class="o">=</span> <span class="n">Adafruit_NeoPixel</span><span class="p">(</span><span class="mi">12</span><span class="p">,</span> <span class="n">PIN</span><span class="p">,</span> <span class="n">NEO_GRBW</span> <span class="o">+</span> <span class="n">NEO_KHZ800</span><span class="p">);</span>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-cpp" data-lang="cpp"><span class="n">Adafruit_NeoPixel</span> <span class="n">strip</span> <span class="o">=</span> <span class="n">Adafruit_NeoPixel</span><span class="p">(</span><span class="mi">12</span><span class="p">,</span> <span class="n">PIN</span><span class="p">,</span> <span class="n">NEO_GRBW</span> <span class="o">+</span> <span class="n">NEO_KHZ800</span><span class="p">);</span>
 </code></pre></div><p>This is the NEO_GRBW + NEO_KHZ800 bit above. The mistake is that that little bit of code that I inherited from the sample file that I chose with RGB in the name refers to a different kind of pixel that has a pure white component to it (the W bit of RGBW). So by simply removing the W from that declaration, it all worked as expected.</p>
-<div class="highlight"><pre class="chroma"><code class="language-cpp" data-lang="cpp"><span class="n">Adafruit_NeoPixel</span> <span class="n">strip</span> <span class="o">=</span> <span class="n">Adafruit_NeoPixel</span><span class="p">(</span><span class="mi">12</span><span class="p">,</span> <span class="n">PIN</span><span class="p">,</span> <span class="n">NEO_GRB</span> <span class="o">+</span> <span class="n">NEO_KHZ800</span><span class="p">);</span>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-cpp" data-lang="cpp"><span class="n">Adafruit_NeoPixel</span> <span class="n">strip</span> <span class="o">=</span> <span class="n">Adafruit_NeoPixel</span><span class="p">(</span><span class="mi">12</span><span class="p">,</span> <span class="n">PIN</span><span class="p">,</span> <span class="n">NEO_GRB</span> <span class="o">+</span> <span class="n">NEO_KHZ800</span><span class="p">);</span>
 </code></pre></div><p>Now on to greater things. I was armed with the ability to light pixels so I wanted to come up with a custom animation (i.e. one that was different from the sample code). The effect that I went for (that should be shown in the animated gif at the top of the page) was to have a leading pixel whizzing around the ring with a trail of faded pixels behind.</p>
 <p>In order to achieve this I needed to be able to set an individual pixel&rsquo;s brightness. When you set the colour of a pixel you give it an RGB value where each of the Red, Green, and Blue parts can take a value between 0 and 255. A value of zero is completely off and 255 is completely on. The combination of the different intensities of the three colours allows you to create lots of different shades.</p>
 <p>Knowing that, we can make a method that can scale the RGB components to adjust the brightness. By multiplying each of the RGB components by our brightness parameter and dividing it by the maximum brightness (255) we can change the brightness of the colour without changing its shade.</p>
-<div class="highlight"><pre class="chroma"><code class="language-cpp" data-lang="cpp"><span class="kt">uint32_t</span> <span class="nf">adjustColourBrightness</span><span class="p">(</span><span class="kt">uint8_t</span> <span class="n">r</span><span class="p">,</span> <span class="kt">uint8_t</span> <span class="n">g</span><span class="p">,</span> <span class="kt">uint8_t</span> <span class="n">b</span><span class="p">,</span> <span class="kt">uint16_t</span> <span class="n">brightness</span><span class="p">)</span> 
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-cpp" data-lang="cpp"><span class="kt">uint32_t</span> <span class="nf">adjustColourBrightness</span><span class="p">(</span><span class="kt">uint8_t</span> <span class="n">r</span><span class="p">,</span> <span class="kt">uint8_t</span> <span class="n">g</span><span class="p">,</span> <span class="kt">uint8_t</span> <span class="n">b</span><span class="p">,</span> <span class="kt">uint16_t</span> <span class="n">brightness</span><span class="p">)</span> 
 <span class="p">{</span>
   <span class="kt">uint8_t</span> <span class="n">newRed</span> <span class="o">=</span> <span class="n">brightness</span> <span class="o">*</span> <span class="n">r</span> <span class="o">/</span> <span class="mi">255</span><span class="p">;</span>
   <span class="kt">uint8_t</span> <span class="n">newGreen</span> <span class="o">=</span> <span class="n">brightness</span> <span class="o">*</span> <span class="n">g</span> <span class="o">/</span> <span class="mi">255</span><span class="p">;</span>
@@ -296,7 +296,7 @@ The other day I started my HullPixelBot journey (http://goparker.com/post/2018-0
   <span class="k">return</span> <span class="n">newColour</span><span class="p">;</span>
 <span class="p">}</span>
 </code></pre></div><p>I also wanted a way to do the same, but for a &lsquo;merged&rsquo; colour like the one that is returned by the strip.Color method which returns a uint32_t value. In order to do this it is necessary to split the merged colour in to its RGB components. That requires a bit shift.</p>
-<div class="highlight"><pre class="chroma"><code class="language-cpp" data-lang="cpp"><span class="c1">// mergedColour is a uint32_t
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-cpp" data-lang="cpp"><span class="c1">// mergedColour is a uint32_t
 </span><span class="c1"></span><span class="kt">uint8_t</span> <span class="n">r</span> <span class="o">=</span> <span class="n">mergedColour</span> <span class="o">&gt;&gt;</span> <span class="mi">16</span><span class="p">;</span>
 <span class="kt">uint8_t</span> <span class="n">g</span> <span class="o">=</span> <span class="n">mergedColour</span> <span class="o">&gt;&gt;</span> <span class="mi">8</span><span class="p">;</span>
 <span class="kt">uint8_t</span> <span class="n">b</span> <span class="o">=</span> <span class="n">mergedColour</span><span class="p">;</span>
@@ -305,7 +305,7 @@ The other day I started my HullPixelBot journey (http://goparker.com/post/2018-0
 <p>For an example consider the colour red, which is RGB (255, 0, 0). For the red component, 255, in binary would be 11111111, that is 8 bits all set to 1. Each of the other colours would be set to zero, or 00000000. If you put them all together you would get 111111110000000000000000. Actually you would get 00000000111111110000000000000000 because we are storing it in a 32 bit integer.</p>
 <p>So, to get the individual components back we do the following. For red, right shift by 16 bits and cram it in the 8 bit integer. 00000000000000000000000011111111 following the shift and then chop off all but the last 8 bits to get 11111111 which was the red that we started with. For green, right shift by 8 bits. 00000000000000001111111100000000 gives us 00000000 once we have cropped down to the last 8 bits. Finally blue doesn&rsquo;t require any shifting as it is already contained in the last 8 bits. So 00000000111111110000000000000000 becomes 00000000.</p>
 <p>In order to make the tail animation work I need to be able to turn all of the pixels off. In order to make it a bit more flexible I did this by making a method that turns all the pixels &lsquo;on&rsquo; to a particular colour.</p>
-<div class="highlight"><pre class="chroma"><code class="language-cpp" data-lang="cpp"><span class="kt">void</span> <span class="nf">turnAllOn</span><span class="p">(</span><span class="kt">uint32_t</span> <span class="n">colour</span><span class="p">,</span> <span class="kt">uint8_t</span> <span class="n">wait</span><span class="p">)</span> 
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-cpp" data-lang="cpp"><span class="kt">void</span> <span class="nf">turnAllOn</span><span class="p">(</span><span class="kt">uint32_t</span> <span class="n">colour</span><span class="p">,</span> <span class="kt">uint8_t</span> <span class="n">wait</span><span class="p">)</span> 
 <span class="p">{</span>
   <span class="k">for</span><span class="p">(</span><span class="kt">uint16_t</span> <span class="n">i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span> <span class="n">i</span><span class="o">&lt;</span><span class="n">strip</span><span class="p">.</span><span class="n">numPixels</span><span class="p">();</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> 
   <span class="p">{</span>
@@ -315,13 +315,13 @@ The other day I started my HullPixelBot journey (http://goparker.com/post/2018-0
   <span class="n">delay</span><span class="p">(</span><span class="n">wait</span><span class="p">);</span>
 <span class="p">}</span>
 </code></pre></div><p>I can then call this with the colour black (all off).</p>
-<div class="highlight"><pre class="chroma"><code class="language-cpp" data-lang="cpp"><span class="kt">void</span> <span class="nf">turnAllOff</span><span class="p">(</span><span class="kt">uint8_t</span> <span class="n">wait</span><span class="p">)</span> 
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-cpp" data-lang="cpp"><span class="kt">void</span> <span class="nf">turnAllOff</span><span class="p">(</span><span class="kt">uint8_t</span> <span class="n">wait</span><span class="p">)</span> 
 <span class="p">{</span>
   <span class="n">turnAllOn</span><span class="p">(</span><span class="n">strip</span><span class="p">.</span><span class="n">Color</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">),</span> <span class="n">wait</span><span class="p">);</span>
 <span class="p">}</span>
 </code></pre></div><p>The reason that I need this for the tail effect is that all of the pixels that are not part of the tail should be turned off.</p>
 <p>And finally we have the method showTail itself. It initialises a brightness value to full brightness. This is what will be used for the first pixel. Then for every pixel after it, reduce the brightness by half. The other important method being called is the correctIndex method that just makes sure that the ledIndex being generated remains in range and &lsquo;wraps&rsquo; around to complete the loop of the pixel ring.</p>
-<div class="highlight"><pre class="chroma"><code class="language-cpp" data-lang="cpp"><span class="kt">int16_t</span> <span class="n">currentIndex</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-cpp" data-lang="cpp"><span class="kt">int16_t</span> <span class="n">currentIndex</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
 <span class="kt">uint16_t</span> <span class="n">tailLength</span> <span class="o">=</span> <span class="mi">12</span><span class="p">;</span>
 
 <span class="kt">void</span> <span class="nf">showTail</span><span class="p">(</span><span class="kt">uint32_t</span> <span class="n">colour</span><span class="p">,</span> <span class="kt">uint8_t</span> <span class="n">wait</span><span class="p">)</span> 
@@ -538,7 +538,7 @@ The other day I started my HullPixelBot journey (http://goparker.com/post/2018-0
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="https://gohugo.io">Hugo v0.74.3</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
+          <a href="https://gohugo.io">Hugo v0.88.1</a> powered &nbsp;&bull;&nbsp; Theme <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a> adapted from <a href="https://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a>
           
         </p>
       </div>
