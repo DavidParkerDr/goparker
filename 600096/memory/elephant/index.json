@@ -1,0 +1,26 @@
+{
+    "Name": "Memory of an Elephant",
+    "PictureSet": [
+        "images/elephant1.png",
+        "images/elephant2.png",
+        "images/elephant3.png",
+        "images/elephant4.png",
+        "images/elephant5.png",
+        "images/elephant6.png",
+        "images/elephant7.png",
+        "images/elephant8.png",
+        "images/elephant9.png",
+        "images/elephant10.png",
+        "images/elephant11.png",
+        "images/elephant12.png",
+        "images/elephant13.png",
+        "images/elephant14.png",
+        "images/elephant15.png",
+        "images/elephant16.png",
+        "images/elephant17.png",
+        "images/elephant18.png",
+        "images/elephant19.png",
+        "images/elephant20.png"
+    ],
+    "TileBack": "images/tileback_e.png"
+}

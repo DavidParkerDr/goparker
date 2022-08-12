@@ -1,0 +1,26 @@
+{
+    "Name": "Memory of a Goldfish",
+    "PictureSet": [
+        "images/goldfish1.png",
+        "images/goldfish2.png",
+        "images/goldfish3.png",
+        "images/goldfish4.png",
+        "images/goldfish5.png",
+        "images/goldfish6.png",
+        "images/goldfish7.png",
+        "images/goldfish8.png",
+        "images/goldfish9.png",
+        "images/goldfish10.png",
+        "images/goldfish11.png",
+        "images/goldfish12.png",
+        "images/goldfish13.png",
+        "images/goldfish14.png",
+        "images/goldfish15.png",
+        "images/goldfish16.png",
+        "images/goldfish17.png",
+        "images/goldfish18.png",
+        "images/goldfish19.png",
+        "images/goldfish20.png"
+    ],
+    "TileBack": "images/tileback_g.png"
+}
