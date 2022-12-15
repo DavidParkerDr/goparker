@@ -1,31 +1,33 @@
 ---
-title: UK and Ireland Programming Competition 2022
-date: 2022-10-29
-tags: ["programming", "competition", "university"]
+title: Bored? Games! Christmas Bash 2022
+date: 2022-12-14
+tags: ["games", "fun", "university"]
 ---
 
-![alt text](/img/post_images/20221029_165912.jpg "Hull Warriors")
+![alt text](/img/post_images/20221214_board_games.jpg "Board Game Fun")
 <br/>
-It always seems to take a while for me to get around to writing about this event.
-
-Once again Hull teams took to the field in the UK and Ireland Programming Competition. This year we had a bumper crop of teams applying their brains to some fun algorithmic puzzles. The format is classic: each team can have up to 3 members and are given 1 computer and 0 internets to solve up to 12 secret programming puzzles in just 5 hours.
-
-http://ukiepc.info/2022/
+After a long pandemic hiatus, yesterday saw the return of the Bored? Games! Christmas Bash. Once again collaborating with the student Gaming Society and the Card and Board Game Society. There were mince pies and everything.
 
 <!--more-->
 
-This year we had eight teams taking part. Which is a new record for us. As usual, we had some fun team names and my favourite was "Runtime Terror" (I love a good pun).
+Somewhat tragically for me, I had a much less interesting meeting to attend, at least for the start. So, after I had set everything up I had to dash. Thankfully Simon was around to make sure that (Secret) Hitler was kept in check, the Magic Maze was conquered, and that the appropriate number of Skulls were avoided.
 
-Many thanks to our sponsors for the event Sauce (https://wearesauce.io/). They are a local employer that frequently takes on our graduates. They supplied our terrific teams with some well deserved pizza, some goody bags, and a £50 Amazon voucher for our winning team.
+![alt text](/img/post_images/20221214_video_games.jpg "Video Gamers")
 
-![alt text](/img/post_images/20221029_120742.jpg "Hard at work")
+I did manage to get back before the end and I tried my best to avoid picking skulls, but after a promising start, I went out pretty early.
 
-This year the puzzles proved particularly challenging and as we entered the final hour I was becoming increasingly worried about how I was going to split the prize that our sponsor had provided given that all of the teams had solved one puzzle. Thankfully that issue was solved by Flight Mode, a team of our first years, cracking a second puzzle and catapulting them to 81st place overall (out of 124 teams). So well done to them.
+We also had the magnificent Taking the Hiss out to play which I set a high bar score to beat. When I returned from the meeting there was a very impressive score posted by Simon, which he was quick to reveal his trickery - using a wire to short circuit and avoid having to nagigate the pipes.
 
-It was a great atmosphere and the time flew by.
+![alt text](/img/post_images/20221214_taking_the_hiss.jpg "Taking the Hiss")
 
-![alt text](/img/post_images/20221029_165535.jpg "The Winners (in Hull)")
+So although no one managed to knock me off the top, there was an impressive attempt by someone known only to the scoreboard as Ben, who managed 9567. If Ben happens to read this, I have a t shirt prize for him.
 
-If you fancy having a go at the sort of problems (or to prepare for next year!) then you may like to try https://open.kattis.com/
+I also discovered that I had made a bit of a boo boo. The Quest 2 VR headset that I put out for Beat Saber, I had accidentally mixed up the touch controllers with another headset. On returning I corrected the error and we managed to get some block slashing in.
+
+I ended up in a battle with Maya, who displayed some solid competence. We slashed away to Spin Eternally and by the end of the event she was comfortably in the lead. So congrats to her, a worthy challenger indeed. There is a t shirt waiting.
+
+![alt text](/img/post_images/221214_beat_saber.png "Beat Sabreurs")
+
+Anyway, I hope everyone had fun. I enjoyed myself and hopefully next time I won't have a double booked meeting. 
 
 
