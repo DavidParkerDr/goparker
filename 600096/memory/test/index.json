@@ -1,0 +1,26 @@
+{
+    "Name": "Memory of a Test",
+    "PictureSet": [
+        "images/test1.png",
+        "images/test2.png",
+        "images/test3.png",
+        "images/test4.png",
+        "images/test5.png",
+        "images/test6.png",
+        "images/test7.png",
+        "images/test8.png",
+        "images/test9.png",
+        "images/test10.png",
+        "images/test11.png",
+        "images/test12.png",
+        "images/test13.png",
+        "images/test14.png",
+        "images/test15.png",
+        "images/test16.png",
+        "images/test17.png",
+        "images/test18.png",
+        "images/test19.png",
+        "images/test20.png"
+    ],
+    "TileBack": "images/tileback_t.png"
+}
