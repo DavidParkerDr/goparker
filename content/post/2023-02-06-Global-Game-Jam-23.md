@@ -4,7 +4,7 @@ date: 2023-02-06
 tags: ["games", "fun", "university"]
 ---
 
-![alt text](/img/post_images/20230206_games.jpg "Jam Games")
+![alt text](/img/post_images/20230206_games.png "Jam Games")
 <br/>
 Global Game Jam was back this weekend just passed. This year the theme was Roots. There was a modest turnout, but games were made and fun (and learning) was had.
 
