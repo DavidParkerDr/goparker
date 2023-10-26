@@ -5,38 +5,20 @@
     <link>https://goparker.com/tags/</link>
     <description>Recent content in Tags on goParker</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://goparker.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://goparker.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>competition</title>
       <link>https://goparker.com/tags/competition/</link>
-      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://goparker.com/tags/competition/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>programming</title>
-      <link>https://goparker.com/tags/programming/</link>
-      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://goparker.com/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>university</title>
-      <link>https://goparker.com/tags/university/</link>
-      <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://goparker.com/tags/university/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>fun</title>
       <link>https://goparker.com/tags/fun/</link>
-      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://goparker.com/tags/fun/</guid>
       <description></description>
@@ -45,9 +27,27 @@
     <item>
       <title>games</title>
       <link>https://goparker.com/tags/games/</link>
-      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://goparker.com/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://goparker.com/tags/programming/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://goparker.com/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>university</title>
+      <link>https://goparker.com/tags/university/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://goparker.com/tags/university/</guid>
       <description></description>
     </item>
     
